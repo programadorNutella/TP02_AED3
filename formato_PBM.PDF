@@ -1,0 +1,789 @@
+%PDF-1.2 
+%‚„œ”
+ 
+9 0 obj
+<<
+/Length 10 0 R
+>>
+stream
+BT70.92 58.32  TD0 0 0 rg /F0 2.04  Tf0  Tc 0.5129  Tw ( ) Tj0 -8.76  TD /F0 9  Tf0.0177  Tc 0  Tw (Semin\341rio Interno, Projeto UPTK, UNESP, Departamento de Cartografia                                                                               ) Tj488.88 0  TD 0.0123  Tc 0.0057  Tw (                   Mauricio Galo, Mar\347o 2003) Tj156.24 0  TD 0  Tc 2.418  Tw ( ) TjET67.08 60.12 657.24 0.48 re fBT70.92 38.52  TD/F1 9.96  Tf1.95  Tw ( ) Tj325.08 462.24  TD 0 0 0.502 rg /F2 27.96  Tf8.13  Tw ( ) Tj-230.64 -32.16  TD 0.0273  Tc -0.0573  Tw (Estrutura dos arquivos de imagem nos) Tj461.28 0  TD 0  Tc 8.13  Tw ( ) Tj-401.76 -32.16  TD 0.0322  Tc -0.0622  Tw (formatos ) Tj114.36 0  TD 1 0 0 rg -0.029  Tc 0  Tw (PBM) Tj62.04 0  TD 0 0 0.502 rg -0.03  Tc (, ) Tj13.92 0  TD 1 0 0 rg -0.0236  Tc (PGM) Tj65.16 0  TD 0 0 0.502 rg -0.0542  Tc 0.0242  Tw ( e ) Tj26.28 0  TD 1 0 0 rg -0.0271  Tc 0  Tw (PPM) Tj60.48 0  TD 0 0 0 rg /F1 26.04  Tf0  Tc 5.25  Tw ( ) Tj-496.2 -30.12  TD ( ) Tj170.76 -26.16  TD 0 0 1 rg /F1 21.96  Tf0.0202  Tc 0  Tw (PBM) Tj46.44 0  TD 0 0 0 rg 0  Tc 0.03  Tw ( ) Tj5.52 0  TD 0.0073  Tc 0  Tw (-) Tj7.32 0  TD 0 0 1 rg 0  Tc 5.55  Tw ( ) Tj22.44 0  TD 0.0302  Tc 0  Tw (P) Tj12.24 0  TD 0 0 0 rg 0.0139  Tc 0.0161  Tw (ortable ) Tj66.6 0  TD 0 0 1 rg -0.0073  Tc 0  Tw (B) Tj14.64 0  TD 0 0 0 rg 0.0151  Tc 0.0149  Tw (it ) Tj17.76 0  TD 0 0 1 rg 0.0376  Tc 0  Tw (M) Tj19.56 0  TD 0 0 0 rg 0.0149  Tc (ap) Tj20.76 0  TD 0  Tc 5.55  Tw ( ) Tj-233.28 -25.32  TD 0 0 1 rg 0.0176  Tc 0  Tw (PGM) Tj47.64 0  TD 0 0 0 rg 0  Tc 0.03  Tw ( ) Tj5.52 0  TD 0.0073  Tc 0  Tw (-) Tj7.32 0  TD 0 0 1 rg 0  Tc 5.55  Tw ( ) Tj21.24 0  TD 0.0302  Tc 0  Tw (P) Tj12.24 0  TD 0 0 0 rg 0.0139  Tc 0.0161  Tw (ortable ) Tj66.6 0  TD 0 0 1 rg -0.0151  Tc 0  Tw (G) Tj15.84 0  TD 0 0 0 rg 0.0524  Tc -0.0224  Tw (ray ) Tj33.72 0  TD 0 0 1 rg 0.0376  Tc 0  Tw (M) Tj19.56 0  TD 0 0 0 rg 0.0149  Tc (ap) Tj20.76 0  TD 0  Tc 5.55  Tw ( ) Tj-250.44 -25.2  TD 0 0 1 rg 0.0327  Tc 0  Tw (PPM) Tj44.04 0  TD 0 0 0 rg 0  Tc 0.03  Tw ( ) Tj5.52 0  TD 0.0073  Tc 0  Tw (-) Tj7.32 0  TD 0 0 1 rg 0  Tc 5.55  Tw ( ) Tj24.84 0  TD 0.0302  Tc 0  Tw (P) Tj12.24 0  TD 0 0 0 rg 0.06  Tc (o) Tj11.04 0  TD 0.0062  Tc 0.0238  Tw (rtable ) Tj55.56 0  TD 0 0 1 rg 0.0302  Tc 0  Tw (P) Tj12.24 0  TD 0 0 0 rg 0.015  Tc 0.015  Tw (ixel ) Tj38.52 0  TD 0 0 1 rg 0.0376  Tc 0  Tw (M) Tj19.56 0  TD 0 0 0 rg 0.0149  Tc (ap) Tj20.76 0  TD 0  Tc 5.55  Tw ( ) Tj-422.4 -25.32  TD 4.47  Tw ( ) Tj35.4 -25.32  TD -0.0213  Tc 0  Tw (Origem) Tj66.96 0  TD 0  Tc 4.47  Tw ( ) Tj-102.36 -25.32  TD ( ) Tj67.8 -25.32  TD 0.005  Tc 0.025  Tw (\223Destinado originalmente para envio de imagens via rede\224) Tj514.56 0  TD 0  Tc 4.47  Tw ( ) Tj-582.36 -25.32  TD ( ) Tj35.4 -25.2  TD 0.0136  Tc 0.0164  Tw (Aplicativos que utilizam este conjunto de arquivos) Tj446.04 0  TD 0  Tc 4.47  Tw ( ) Tj-481.44 -25.32  TD ( ) Tj70.8 -25.32  TD 0.2 0.2 0.6 rg 0.0224  Tc 0  Tw (Xv) Tj26.88 0  TD 0 0 0 rg 0.0073  Tc 0.0227  Tw ( \() Tj12.84 0  TD 0.2 0.2 0.6 rg 0.0029  Tc 0  Tw (Xview) Tj58.56 0  TD 0 0 0 rg 0.0187  Tc 0.0113  Tw (\), ) Tj18.36 0  TD 0.2 0.2 0.6 rg 0.015  Tc 0.015  Tw (GIMP, \205) Tj87.96 0  TD 0 0 0 rg 0  Tc 2.31  Tw ( ) Tj7.8 0  TD 29.91  Tw ( ) Tj35.4 0  TD ( ) Tj35.4 0  TD -0.0079  Tc 0.0379  Tw (Plataformas UNIX, LINUX) Tj244.44 0  TD 0  Tc 4.47  Tw ( ) Tj-563.04 -25.32  TD 29.91  Tw ( ) Tj35.4 0  TD 0.2 0.2 0.6 rg 0  Tc 0  Tw (IrfanView) Tj90.24 0  TD 0 0 0 rg 0.03  Tc (, ) Tj11.04 0  TD 0.2 0.2 0.6 rg 0.0104  Tc (Lview) Tj56.16 0  TD 0 0 0 rg 0.03  Tc (, ) Tj11.04 0  TD 0.2 0.2 0.6 rg 0.018  Tc 0.012  Tw (GIMP, ) Tj66 0  TD 0 0 0 rg 0.03  Tc 0  Tw (...) Tj16.56 0  TD 0  Tc 26.67  Tw ( ) Tj32.16 0  TD 0.0268  Tc 0  Tw (Windows) Tj84.36 0  TD 0  Tc 4.47  Tw ( ) TjETendstream
+endobj
+10 0 obj
+3907
+endobj
+4 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/Resources <<
+/Font <<
+/F0 6 0 R 
+/F1 7 0 R 
+/F2 8 0 R 
+>>
+/ProcSet 2 0 R
+>>
+/Contents 9 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 14 0 R
+>>
+stream
+BT70.92 58.32  TD0 0 0 rg /F0 2.04  Tf0  Tc 0.5129  Tw ( ) Tj0 -8.76  TD /F0 9  Tf0.0177  Tc 0  Tw (Semin\341rio Interno, Projeto UPTK, UNESP, Departamento de Cartografia                                                                               ) Tj488.88 0  TD 0.0123  Tc 0.0057  Tw (                   Mauricio Galo, Mar\347o 2003) Tj156.24 0  TD 0  Tc 2.418  Tw ( ) TjET67.08 60.12 657.24 0.48 re fBT70.92 38.52  TD/F1 9.96  Tf1.95  Tw ( ) Tj0 468.12  TD /F1 21.96  Tf4.47  Tw ( ) Tj0 -25.44  TD 0 0 0.502 rg /F2 21.96  Tf0.0158  Tc 0.0142  Tw (Estrutura dos arquivos) Tj217.56 0  TD 0  Tc 6.39  Tw ( ) Tj-5.16 -25.08  TD 0 0 0 rg /F1 21.96  Tf29.91  Tw ( ) Tj35.4 0  TD ( ) Tj35.4 0  TD ( ) Tj35.4 0  TD ( ) Tj35.4 0  TD ( ) Tj35.4 0  TD ( ) Tj35.4 0  TD 0 0.502 0 rg -0.0042  Tc 0  Tw (Denomina\347\343o) Tj121.92 0  TD 0 0 0 rg 0.0073  Tc 0.0227  Tw ( \() Tj12.84 0  TD /F3 21.96  Tf-0.0039  Tc 0  Tw (Xv) Tj23.16 0  TD /F1 21.96  Tf0.0073  Tc (\)) Tj7.32 0  TD 0  Tc 4.47  Tw ( ) Tj-554.64 -25.32  TD /F3 21.96  Tf0.0037  Tc 0  Tw (Header) Tj65.88 0  TD /F1 21.96  Tf0.0151  Tc 0.0149  Tw (: ) Tj11.64 0  TD 0  Tc 23.19  Tw ( ) Tj28.68 0  TD -0.0113  Tc 0.0413  Tw (escrito em ASCII) Tj153.6 0  TD 0  Tc 17.91  Tw ( ) Tj23.4 0  TD 29.91  Tw ( ) Tj35.4 0  TD ( ) Tj35.4 0  TD ( ) Tj35.4 0  TD 0 0 1 rg 0.0045  Tc 0  Tw (ASCII) Tj57.36 0  TD 0 0 0 rg 0  Tc 4.47  Tw ( ) Tj-446.76 -25.32  TD -0.044  Tc 0  Tw (Imagem:) Tj77.76 0  TD 0  Tc 22.95  Tw ( ) Tj28.44 0  TD -0.0113  Tc 0.0413  Tw (escrito em ASCII) Tj153.6 0  TD 0  Tc 4.47  Tw ( ) Tj-295.2 -25.32  TD ( ) Tj35.4 -25.32  TD /F3 21.96  Tf0.0037  Tc 0  Tw (Header) Tj65.88 0  TD /F1 21.96  Tf0.0151  Tc 0.0149  Tw (: ) Tj11.64 0  TD 0  Tc 23.19  Tw ( ) Tj28.68 0  TD -0.0113  Tc 0.0413  Tw (escrito em ASCII) Tj153.6 0  TD 0  Tc 17.91  Tw ( ) Tj23.4 0  TD 29.91  Tw ( ) Tj35.4 0  TD ( ) Tj35.4 0  TD ( ) Tj35.4 0  TD 0 0 1 rg 0.0027  Tc 0.0273  Tw (RAW / RAWBits) Tj155.04 0  TD 0 0 0 rg 0  Tc 4.47  Tw ( ) Tj-544.44 -25.2  TD -0.044  Tc 0  Tw (Imagem:) Tj77.76 0  TD 0  Tc 22.95  Tw ( ) Tj28.44 0  TD 0.0368  Tc -0.0068  Tw (Modo bin\341rio) Tj120.6 0  TD 0  Tc 4.47  Tw ( ) Tj-262.2 -25.32  TD ( ) Tj0 -25.32  TD ( ) TjT* ( ) Tj35.4 -25.32  TD 0 0 0.502 rg 0.0083  Tc 0.0217  Tw (Vantagem do tipo ASCII) Tj220.44 0  TD 0 0 0 rg 0.0151  Tc 0  Tw (:) Tj6.12 0  TD 0  Tc 15.75  Tw ( ) Tj21.24 0  TD 0.0079  Tc 0.0221  Tw (Pode ser escrito em qualquer editor de) Tj337.08 0  TD 0  Tc 4.47  Tw ( ) Tj-620.28 -25.32  TD 29.91  Tw ( ) Tj35.4 0  TD ( ) Tj35.4 0  TD ( ) Tj35.4 0  TD ( ) Tj35.4 0  TD ( ) Tj35.4 0  TD ( ) Tj35.4 0  TD ( ) Tj35.4 0  TD ( ) Tj35.4 0  TD 0.0212  Tc 0.0088  Tw (texto \() Tj56.88 0  TD 1 0 0 rg /F4 21.96  Tf0.0364  Tc 0  Tw (notepad) Tj72.24 0  TD 0 0 0 rg /F1 21.96  Tf0.03  Tc (, ) Tj11.04 0  TD 1 0 0 rg /F4 21.96  Tf0.0343  Tc (textpad) Tj66.12 0  TD 0 0 0 rg /F1 21.96  Tf0.03  Tc (, ) Tj11.04 0  TD 1 0 0 rg /F4 21.96  Tf-0.0136  Tc (emacs) Tj56.04 0  TD 0 0 0 rg /F1 21.96  Tf0.03  Tc (, ) Tj11.04 0  TD 1 0 0 rg /F4 21.96  Tf-0.0076  Tc (vi) Tj15.84 0  TD 0 0 0 rg /F1 21.96  Tf0.0262  Tc 0.0038  Tw (, ...\).) Tj40.44 0  TD 0  Tc 4.47  Tw ( ) Tj-623.88 -25.2  TD ( ) Tj35.4 -25.32  TD 0 0 0.502 rg 0.0084  Tc 0.0216  Tw (Vantagem do tipo RAW) Tj214.32 0  TD 0 0 0 rg 0.0151  Tc 0  Tw (:) Tj6.12 0  TD 0  Tc 21.87  Tw ( ) Tj27.36 0  TD 0.0184  Tc 0.0116  Tw (Menor tamanho dos arquivos.) Tj262.8 0  TD 0  Tc 4.47  Tw ( ) Tj-546 -25.32  TD 29.91  Tw ( ) Tj35.4 0  TD ( ) Tj35.4 0  TD ( ) Tj35.4 0  TD ( ) Tj35.4 0  TD ( ) Tj35.4 0  TD ( ) Tj35.4 0  TD ( ) Tj35.4 0  TD ( ) Tj35.4 0  TD 0.0187  Tc 0.0113  Tw (\(quando comparado c/ os do) Tj249.36 0  TD 0.018  Tc 0.012  Tw ( tipo ASCII\)) Tj110.04 0  TD 0  Tc 4.47  Tw ( ) TjETendstream
+endobj
+14 0 obj
+3863
+endobj
+11 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/Resources <<
+/Font <<
+/F0 6 0 R 
+/F1 7 0 R 
+/F2 8 0 R 
+/F3 12 0 R 
+/F4 15 0 R 
+>>
+/ProcSet 2 0 R
+>>
+/Contents 13 0 R
+>>
+endobj
+17 0 obj
+<<
+/Length 18 0 R
+>>
+stream
+BT70.92 58.32  TD0 0 0 rg /F0 2.04  Tf0  Tc 0.5129  Tw ( ) Tj0 -8.76  TD /F0 9  Tf0.0177  Tc 0  Tw (Semin\341rio Interno, Projeto UPTK, UNESP, Departamento de Cartografia                                                                               ) Tj488.88 0  TD 0.0123  Tc 0.0057  Tw (                   Mauricio Galo, Mar\347o 2003) Tj156.24 0  TD 0  Tc 2.418  Tw ( ) TjET67.08 60.12 657.24 0.48 re fBT70.92 38.52  TD/F1 9.96  Tf1.95  Tw ( ) Tj82.92 468  TD 0 0 0.502 rg /F2 21.96  Tf0.03  Tw ( ) Tj5.52 0  TD 0.0104  Tc 0.0196  Tw (Estrutura dos Arquivos PBM, PGM, PPM \(ASCII\)) Tj478.8 0  TD 0  Tc 6.39  Tw ( ) Tj-567.24 -25.2  TD 0 0 0 rg /F1 21.96  Tf4.47  Tw ( ) Tj25.56 -25.2  TD 0 0 1 rg 5.55  Tw ( ) Tj191.64 0  TD 0 0 0 rg 0.0045  Tc 0  Tw (ASCII) Tj57.36 0  TD 0  Tc 5.55  Tw ( ) Tj193.68 0  TD -0.0085  Tc 0  Tw (Descri\347\343o) Tj87.72 0  TD 0  Tc 5.55  Tw ( ) Tj-530.4 -27.72  TD 0 0 1 rg /F2 21.96  Tf0.015  Tc 0  Tw (PBM) Tj48.84 0  TD 0 0 0 rg 0  Tc 0.03  Tw ( ) Tj5.52 0  TD 0 0 1 rg 5.55  Tw ( ) Tj19.2 9.36  TD 1 0 0 rg /F2 12  Tf-0.066  Tc 0  Tw (P1) Tj13.2 0  TD 0  Tc 3.48  Tw ( ) Tj-13.2 -13.8  TD 0  Tw (#) Tj6 0  TD 3.48  Tw ( ) Tj-6 -13.8  TD 0  Tw (30 20) Tj27 0  TD 3.48  Tw ( ) Tj-27 -13.8  TD 0 0 0 rg 0  Tw (0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  ) Tj273 0  TD 3.48  Tw ( ) Tj-273 -13.8  TD 0  Tw (....) Tj12 0  TD /F2 21.96  Tf5.55  Tw ( ) Tj288.72 55.44  TD 1 0 0 rg /F1 12  Tf-0.0748  Tc 0.0748  Tw (  IDENTIFICADOR) Tj97.68 0  TD 0  Tc 2.4  Tw ( ) Tj-97.68 -13.8  TD -0.0312  Tc 0.0312  Tw (  COMENT\301RIO) Tj85.68 0  TD 0  Tc 2.4  Tw ( ) Tj-85.68 -13.8  TD -0.0201  Tc 0.0201  Tw (  LARGURA E ALTURA \(Width x Height\)) Tj211.08 0  TD 0  Tc 2.4  Tw ( ) Tj-211.08 -13.8  TD 0 0 0 rg -0.0115  Tc 0.0115  Tw (  Um caracter por pixel \(0 ou 1\)) Tj151.68 0  TD 0  Tc 3  Tw ( ) TjET165.48 448.8 2.16 2.28 re f165.48 448.92 2.16 2.16 re f167.64 448.92 2.16 2.16 re f169.8 448.92 296.4 2.16 re f466.2 448.8 2.16 2.28 re f466.2 448.92 2.16 2.16 re f165.48 379.8 2.16 69 re f466.2 379.8 2.16 69 re fBT96.48 357.12  TD0 0 1 rg /F2 21.96  Tf0.0024  Tc 0  Tw (PGM) Tj51.24 0  TD 0 0 0 rg 0  Tc 0.03  Tw ( ) Tj5.52 0  TD 0 0 1 rg 5.55  Tw ( ) Tj16.8 9.36  TD 1 0 0 rg /F2 12  Tf-0.066  Tc 0  Tw (P2) Tj13.2 0  TD 0  Tc 3.48  Tw ( ) Tj-13.2 -13.8  TD -0.0051  Tc 0.0051  Tw (# CREATOR: XV Version 3.10a  Rev: 12/29/94) Tj241.8 0  TD 0  Tc 3.48  Tw ( ) Tj-241.8 -13.8  TD 0  Tw (# ) Tj9 0  TD 3.48  Tw ( ) Tj-9 -13.8  TD 0  Tw (30 20) Tj27 0  TD 3.48  Tw ( ) Tj-27 -13.8  TD 0  Tw (255) Tj18 0  TD 3.48  Tw ( ) Tj-18 -13.8  TD 0 0 0 rg 0  Tw (  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 ) Tj255 0  TD 3.48  Tw ( ) Tj-255 -13.8  TD 0  Tw (  0   0   0   0   0   0   0   0   0   0   0   0   0 ) Tj195 0  TD (  0 145 145 145) Tj75 0  TD 3.48  Tw ( ) Tj-270 -13.8  TD 0  Tw (...) Tj9 0  TD /F2 21.96  Tf5.55  Tw ( ) Tj291.72 96.84  TD 1 0 0 rg /F1 12  Tf-0.0748  Tc 0.0748  Tw (  IDENTIFICADOR) Tj97.68 0  TD 0  Tc 2.4  Tw ( ) Tj-97.68 -13.8  TD -0.0312  Tc 0.0312  Tw (  COMENT\301RIO) Tj85.68 0  TD 0  Tc 2.4  Tw ( ) Tj-85.68 -13.8  TD -0.0312  Tc 0.0312  Tw (  COMENT\301RIO) Tj85.68 0  TD 0  Tc 2.4  Tw ( ) Tj-85.68 -13.8  TD -0.0201  Tc 0.0201  Tw (  LARGURA E ALTURA \(Width x Height\)) Tj211.08 0  TD 0  Tc 2.4  Tw ( ) Tj-211.08 -13.8  TD -0.0669  Tc 0.0669  Tw (  M\301XIMO VALOR DE BRILHO) Tj167.04 0  TD 0  Tc 2.4  Tw ( ) Tj-167.04 -13.8  TD 0 0 0 rg -0.0433  Tc 0.0433  Tw (  TOM DE CINZA PARA CADA PIXEL) Tj199.32 0  TD 0  Tc 2.4  Tw ( ) Tj-199.32 -13.8  TD 1 0 0 rg 3  Tw ( ) TjET0 0 0 rg 165.48 377.52 2.16 2.28 re f167.64 377.64 298.56 2.16 re f466.2 377.52 2.16 2.28 re f165.48 267.12 2.16 110.4 re f466.2 267.12 2.16 110.4 re fBT96.48 244.44  TD0 0 1 rg /F2 21.96  Tf0.0249  Tc 0  Tw (PPM) Tj47.64 0  TD 0 0 0 rg 0  Tc 0.03  Tw ( ) Tj5.52 0  TD 0 0 1 rg 5.55  Tw ( ) Tj20.4 9.36  TD 1 0 0 rg /F2 12  Tf-0.066  Tc 0  Tw (P3) Tj13.2 0  TD 0  Tc 3.48  Tw ( ) Tj-13.2 -13.8  TD -0.0051  Tc 0.0051  Tw (# CREATOR: XV Version 3.10a  Rev: 12/29/94) Tj241.8 0  TD 0  Tc 3.48  Tw ( ) Tj-241.8 -13.8  TD 0  Tw (# ) Tj9 0  TD 3.48  Tw ( ) Tj-9 -13.8  TD 0  Tw (30 20) Tj27 0  TD 3.48  Tw ( ) Tj-27 -13.8  TD 0  Tw (255) Tj18 0  TD 3.48  Tw ( ) Tj-18 -13.8  TD 0 0 0 rg 0  Tw (205 205 205 205 205 205 205 205 205 ) Tj189 0  TD (205 205 205 205 205 ) Tj-189 -13.8  TD (205 205 205 ) Tj63 0  TD 3.48  Tw ( ) Tj-63 -13.68  TD 0  Tw (205 205 205 205 205 205 205 205 205 205 205 205 205 205 ) Tj0 -13.8  TD (175 175 175 ) Tj63 0  TD 3.48  Tw ( ) Tj-63 -13.8  TD 0  Tw (....) Tj12 0  TD /F2 21.96  Tf5.55  Tw ( ) Tj288.72 124.32  TD 1 0 0 rg /F1 12  Tf-0.0748  Tc 0.0748  Tw (  IDENTIFICADOR) Tj97.68 0  TD 0  Tc 2.4  Tw ( ) Tj-97.68 -13.8  TD -0.0312  Tc 0.0312  Tw (  COMENT\301RIO) Tj85.68 0  TD 0  Tc 2.4  Tw ( ) Tj-85.68 -13.8  TD -0.0312  Tc 0.0312  Tw (  COMENT\301RIO) Tj85.68 0  TD 0  Tc 2.4  Tw ( ) Tj-85.68 -13.8  TD -0.0201  Tc 0.0201  Tw (  LARGURA E ALTURA \(Width x Height\)) Tj211.08 0  TD 0  Tc 2.4  Tw ( ) Tj-211.08 -13.8  TD -0.0669  Tc 0.0669  Tw (  M\301XIMO VALOR DE BRILHO) Tj167.04 0  TD 0  Tc 2.4  Tw ( ) Tj-167.04 -13.8  TD 0 0 0 rg -0.0385  Tc 0.0385  Tw (  VALOR DE INTENSIDADE PARA AS   ) Tj210.72 0  TD 0  Tc 2.4  Tw ( ) Tj-210.72 -13.68  TD -0.0227  Tc 0.0227  Tw (  BANDAS RGB) Tj82.8 0  TD -0.0397  Tc 0.0397  Tw ( PARA CADA PIXEL) Tj108.48 0  TD 0  Tc 2.4  Tw ( ) Tj-191.28 -13.8  TD -0.018  Tc 0.018  Tw (  \(R G B R G B R G B ....) Tj122.76 0  TD 0  Tc 2.4  Tw ( ) Tj-122.76 -13.8  TD -0.0032  Tc 0.0032  Tw (  .............................. R G B\)) Tj133.56 0  TD 0  Tc 2.4  Tw ( ) Tj-133.56 -13.8  TD 1 0 0 rg 3  Tw ( ) TjET0 0 0 rg 165.48 264.84 2.16 2.28 re f167.64 264.96 298.56 2.16 re f466.2 264.84 2.16 2.28 re f165.48 126.84 2.16 138 re f165.48 124.68 2.16 2.16 re f165.48 124.68 2.16 2.16 re f167.64 124.68 298.56 2.16 re f466.2 126.84 2.16 138 re f466.2 124.68 2.16 2.16 re f466.2 124.68 2.16 2.16 re fBT106.32 104.4  TD/F1 21.96  Tf0.0098  Tc 0.0202  Tw (Obs.:  1\) O n\372mero de coment\341rios n\343o \351 fixo, e nem obrigat\363rio.) Tj576 0  TD 0  Tc 4.47  Tw ( ) TjETendstream
+endobj
+18 0 obj
+6289
+endobj
+16 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/Resources <<
+/Font <<
+/F0 6 0 R 
+/F1 7 0 R 
+/F2 8 0 R 
+>>
+/ProcSet 2 0 R
+>>
+/Contents 17 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 21 0 R
+>>
+stream
+BT70.92 58.32  TD0 0 0 rg /F0 2.04  Tf0  Tc 0.5129  Tw ( ) Tj0 -8.76  TD /F0 9  Tf0.0177  Tc 0  Tw (Semin\341rio Interno, Projeto UPTK, UNESP, Departamento de Cartografia                                                                               ) Tj488.88 0  TD 0.0123  Tc 0.0057  Tw (                   Mauricio Galo, Mar\347o 2003) Tj156.24 0  TD 0  Tc 2.418  Tw ( ) TjET67.08 60.12 657.24 0.48 re fBT70.92 38.52  TD/F1 9.96  Tf1.95  Tw ( ) Tj89.28 468  TD 0 0 0.502 rg /F2 21.96  Tf0.0114  Tc 0.0186  Tw (Estrutura dos Arquivos PBM, PGM, PPM \(RAW\)) Tj471.48 0  TD 0  Tc 6.39  Tw ( ) Tj-560.76 -25.2  TD 0 0 0 rg /F1 21.96  Tf4.47  Tw ( ) Tj25.56 -25.2  TD 0 0 1 rg 5.55  Tw ( ) Tj194.76 0  TD 0 0 0 rg 0.0024  Tc 0  Tw (RAW) Tj51.24 0  TD 0  Tc 5.55  Tw ( ) Tj196.68 0  TD -0.0085  Tc 0  Tw (Descri\347\343o) Tj87.72 0  TD 0  Tc 5.55  Tw ( ) Tj-530.4 -27.72  TD 0 0 1 rg /F2 21.96  Tf0.015  Tc 0  Tw (PBM) Tj48.84 0  TD 0 0 0 rg 0  Tc 0.03  Tw ( ) Tj5.52 0  TD 0 0 1 rg 5.55  Tw ( ) Tj19.2 9.36  TD 1 0 0 rg /F2 12  Tf-0.066  Tc 0  Tw (P4) Tj13.2 0  TD 0  Tc 3.48  Tw ( ) Tj-13.2 -13.8  TD 0  Tw (#) Tj6 0  TD 3.48  Tw ( ) Tj-6 -13.8  TD 0  Tw (30 20) Tj27 0  TD 3.48  Tw ( ) Tj-26.88 -13.8  TD 0 0 0 rg /F5 12  Tf0.3  Tc 0  Tw (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc (....) Tj12 0  TD /F2 21.96  Tf5.55  Tw ( ) Tj175.8 41.64  TD 1 0 0 rg /F1 12  Tf-0.0748  Tc 0.0748  Tw (  IDENTIFICADOR) Tj97.68 0  TD 0  Tc 2.4  Tw ( ) Tj-97.68 -13.8  TD -0.0312  Tc 0.0312  Tw (  COMENT\301RIO) Tj85.68 0  TD 0  Tc 2.4  Tw ( ) Tj-85.68 -13.8  TD -0.0201  Tc 0.0201  Tw (  LARGURA E ALTURA \(Width x Height\)) Tj211.08 0  TD 0  Tc 2.4  Tw ( ) Tj-211.08 -13.8  TD 0 0 0 rg -0.0115  Tc 0.0115  Tw (  Um caracter por pixel \(0 ou 1\)) Tj151.68 0  TD 0  Tc 2.4  Tw ( ) Tj-151.68 -13.8  TD 3  Tw ( ) TjET165.48 448.8 2.16 2.28 re f165.48 448.92 2.16 2.16 re f167.64 448.92 2.16 2.16 re f169.8 448.92 296.4 2.16 re f466.2 448.8 2.16 2.28 re f466.2 448.92 2.16 2.16 re f165.48 379.8 2.16 69 re f466.2 379.8 2.16 69 re fBT96.48 357.12  TD0 0 1 rg /F2 21.96  Tf5.55  Tw ( ) Tj73.56 9.36  TD 1 0 0 rg /F2 12  Tf3  Tw ( ) Tj300.72 0.24  TD /F1 12  Tf( ) TjET0 0 0 rg 165.48 377.64 2.16 2.16 re f165.48 377.64 2.16 2.16 re f167.64 377.64 2.16 2.16 re f169.8 377.64 296.4 2.16 re f466.2 377.64 2.16 2.16 re f466.2 377.64 2.16 2.16 re fBT96.48 329.64  TD0 0 1 rg /F2 21.96  Tf0.0024  Tc 0  Tw (PGM) Tj51.24 0  TD 0 0 0 rg 0  Tc 0.03  Tw ( ) Tj5.52 0  TD 0 0 1 rg 5.55  Tw ( ) Tj16.8 9.36  TD 1 0 0 rg /F2 12  Tf-0.066  Tc 0  Tw (P5) Tj13.2 0  TD 0  Tc 3.48  Tw ( ) Tj-13.2 -13.8  TD -0.0051  Tc 0.0051  Tw (# CREATOR: XV Version 3.10a  Rev: 12/29/94) Tj241.8 0  TD 0  Tc 3.48  Tw ( ) Tj-241.8 -13.8  TD 0  Tw (# ) Tj9 0  TD 3.48  Tw ( ) Tj-9 -13.8  TD 0  Tw (30 20) Tj27 0  TD 3.48  Tw ( ) Tj-27 -13.8  TD 0  Tw (255) Tj18 0  TD 3.48  Tw ( ) Tj-17.88 -13.8  TD 0 0 0 rg /F5 12  Tf0.3  Tc 0  Tw (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc (....) Tj12 0  TD /F2 21.96  Tf5.55  Tw ( ) Tj175.8 69.24  TD 1 0 0 rg /F1 12  Tf-0.0748  Tc 0.0748  Tw (  IDENTIFICADOR) Tj97.68 0  TD 0  Tc 2.4  Tw ( ) Tj-97.68 -13.8  TD -0.0312  Tc 0.0312  Tw (  COMENT\301RIO) Tj85.68 0  TD 0  Tc 2.4  Tw ( ) Tj-85.68 -13.8  TD -0.0312  Tc 0.0312  Tw (  COMENT\301RIO) Tj85.68 0  TD 0  Tc 2.4  Tw ( ) Tj-85.68 -13.8  TD -0.0201  Tc 0.0201  Tw (  LARGURA E ALTURA \(Width x Height\)) Tj211.08 0  TD 0  Tc 2.4  Tw ( ) Tj-211.08 -13.8  TD -0.0669  Tc 0.0669  Tw (  M\301XIMO VALOR DE BRILHO) Tj167.04 0  TD 0  Tc 2.4  Tw ( ) Tj-167.04 -13.8  TD 0 0 0 rg -0.0433  Tc 0.0433  Tw (  TOM DE CINZA PARA CADA PIXEL) Tj199.32 0  TD 0  Tc 2.4  Tw ( ) Tj-199.32 -13.8  TD 1 0 0 rg 3  Tw ( ) TjET0 0 0 rg 165.48 350.04 2.16 2.28 re f165.48 350.16 2.16 2.16 re f167.64 350.16 2.16 2.16 re f169.8 350.16 296.4 2.16 re f466.2 350.04 2.16 2.28 re f466.2 350.16 2.16 2.16 re f165.48 253.44 2.16 96.6 re f466.2 253.44 2.16 96.6 re fBT96.48 230.76  TD0 0 1 rg /F2 21.96  Tf5.55  Tw ( ) Tj73.56 9.36  TD 1 0 0 rg /F2 12  Tf3  Tw ( ) Tj300.72 0.24  TD /F1 12  Tf( ) TjET0 0 0 rg 165.48 251.28 2.16 2.16 re f165.48 251.28 2.16 2.16 re f167.64 251.28 2.16 2.16 re f169.8 251.28 296.4 2.16 re f466.2 251.28 2.16 2.16 re f466.2 251.28 2.16 2.16 re fBT96.48 203.16  TD0 0 1 rg /F2 21.96  Tf0.0249  Tc 0  Tw (PPM) Tj47.64 0  TD 0 0 0 rg 0  Tc 0.03  Tw ( ) Tj5.52 0  TD 0 0 1 rg 5.55  Tw ( ) Tj20.4 9.36  TD 1 0 0 rg /F2 12  Tf-0.066  Tc 0  Tw (P6) Tj13.2 0  TD 0  Tc 3.48  Tw ( ) Tj-13.2 -13.8  TD -0.0099  Tc 0.0099  Tw (# CREATOR: XV Versio) Tj129.48 0  TD -0  Tc 0  Tw (n 3.10a  Rev: 12/29/94) Tj112.32 0  TD 0  Tc 3.48  Tw ( ) Tj-241.8 -13.8  TD 0  Tw (# ) Tj9 0  TD 3.48  Tw ( ) Tj-9 -13.8  TD 0  Tw (30 20) Tj27 0  TD 3.48  Tw ( ) Tj-27 -13.8  TD 0  Tw (255) Tj18 0  TD 3.48  Tw ( ) Tj-17.88 -13.8  TD 0 0 0 rg /F5 12  Tf0.3  Tc 0  Tw (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc (....) Tj12 0  TD /F2 21.96  Tf5.55  Tw ( ) Tj175.8 69.24  TD 1 0 0 rg /F1 12  Tf-0.0748  Tc 0.0748  Tw (  IDENTIFICADOR) Tj97.68 0  TD 0  Tc 2.4  Tw ( ) Tj-97.68 -13.8  TD -0.0312  Tc 0.0312  Tw (  COMENT\301RIO) Tj85.68 0  TD 0  Tc 2.4  Tw ( ) Tj-85.68 -13.8  TD -0.0312  Tc 0.0312  Tw (  COMENT\301RIO) Tj85.68 0  TD 0  Tc 2.4  Tw ( ) Tj-85.68 -13.8  TD -0.0201  Tc 0.0201  Tw (  LARGURA E ALTURA \(Width x Height\)) Tj211.08 0  TD 0  Tc 2.4  Tw ( ) Tj-211.08 -13.8  TD -0.0669  Tc 0.0669  Tw (  M\301XIMO VALOR DE BRILHO) Tj167.04 0  TD 0  Tc 2.4  Tw ( ) Tj-167.04 -13.8  TD 0 0 0 rg -0.0385  Tc 0.0385  Tw (  VALOR DE INTENSIDADE PARA AS   ) Tj210.72 0  TD 0  Tc 2.4  Tw ( ) Tj-210.72 -13.8  TD -0.0327  Tc 0.0327  Tw (  BANDAS RGB PARA CADA PIXEL) Tj191.28 0  TD 0  Tc 2.4  Tw ( ) Tj-191.28 -13.8  TD -0.0229  Tc 0.0229  Tw (  \(R G B R G B R G B .) Tj113.76 0  TD -0.009  Tc 0.009  Tw (........ R G B\)) Tj61.56 0  TD 1 0 0 rg 0  Tc 3  Tw ( ) TjET0 0 0 rg 165.48 223.56 2.16 2.28 re f165.48 223.68 2.16 2.16 re f167.64 223.68 2.16 2.16 re f169.8 223.68 296.4 2.16 re f466.2 223.56 2.16 2.28 re f466.2 223.68 2.16 2.16 re f165.48 113.16 2.16 110.4 re f165.48 111 2.16 2.16 re f165.48 111 2.16 2.16 re f167.64 111 298.56 2.16 re f466.2 113.16 2.16 110.4 re f466.2 111 2.16 2.16 re f466.2 111 2.16 2.16 re fendstream
+endobj
+21 0 obj
+9929
+endobj
+19 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/Resources <<
+/Font <<
+/F0 6 0 R 
+/F1 7 0 R 
+/F2 8 0 R 
+/F5 22 0 R 
+>>
+/ProcSet 2 0 R
+>>
+/Contents 20 0 R
+>>
+endobj
+25 0 obj
+<<
+/Length 26 0 R
+>>
+stream
+BT70.92 58.32  TD0 0 0 rg /F0 2.04  Tf0  Tc 0.5129  Tw ( ) Tj0 -8.76  TD /F0 9  Tf0.0177  Tc 0  Tw (Semin\341rio Interno, Projeto UPTK, UNESP, Departamento de Cartografia                                                                               ) Tj488.88 0  TD 0.0123  Tc 0.0057  Tw (                   Mauricio Galo, Mar\347o 2003) Tj156.24 0  TD 0  Tc 2.418  Tw ( ) TjET67.08 60.12 657.24 0.48 re fBT70.92 38.52  TD/F1 9.96  Tf1.95  Tw ( ) Tj188.04 468  TD 0 0 0.502 rg /F2 21.96  Tf0.002  Tc 0.028  Tw (Formatos de maior interesse: ) Tj279.48 0  TD 0  Tc 6.39  Tw ( ) Tj-383.64 -25.32  TD 0.0054  Tc 0.0246  Tw (imagens em tons de cinza \(PGM\) e coloridas \(PPM\)) Tj482.28 0  TD 0  Tc 6.39  Tw ( ) Tj-566.16 -25.08  TD 0 0 0 rg /F1 21.96  Tf4.47  Tw ( ) Tj25.56 -25.32  TD 0 0 1 rg 5.55  Tw ( ) Tj194.76 0  TD 0 0 0 rg 0.0024  Tc 0  Tw (RAW) Tj51.24 0  TD 0  Tc 5.55  Tw ( ) Tj196.68 0  TD -0.0085  Tc 0  Tw (Descri\347\343o) Tj87.72 0  TD 0  Tc 5.55  Tw ( ) Tj-530.4 -27.6  TD 0.6 0.6 0.6 rg 0.0202  Tc 0.0098  Tw (PBM ) Tj51.96 0  TD 0  Tc 5.55  Tw ( ) Tj21.6 9.48  TD /F1 12  Tf0.024  Tc 0  Tw (P4) Tj12.72 0  TD 0  Tc 2.4  Tw ( ) Tj-12.72 -13.8  TD 0  Tw (#) Tj6 0  TD 2.4  Tw ( ) Tj-6 -13.8  TD 0  Tw (30 20) Tj27 0  TD 2.4  Tw ( ) Tj-27 -13.8  TD /F6 12  Tf0.06  Tc 0  Tw (z) Tj5.04 0  TD /F1 12  Tf0  Tc ( ) Tj3 0  TD /F6 12  Tf0.06  Tc (z) Tj5.04 0  TD /F1 12  Tf0  Tc ( ) Tj3 0  TD /F6 12  Tf0.06  Tc (z) Tj5.04 0  TD /F1 12  Tf0  Tc ( ) Tj3 0  TD /F6 12  Tf0.06  Tc (z) Tj5.04 0  TD /F1 12  Tf0  Tc ( ) Tj3 0  TD /F6 12  Tf0.06  Tc (z) Tj5.04 0  TD /F1 12  Tf0  Tc ( ) Tj3 0  TD /F6 12  Tf0.06  Tc (z) Tj5.04 0  TD /F1 12  Tf0  Tc ( ) Tj3 0  TD /F6 12  Tf0.06  Tc (z) Tj5.04 0  TD /F1 12  Tf0  Tc ( ) Tj3 0  TD /F6 12  Tf0.06  Tc (z) Tj5.04 0  TD /F1 12  Tf0  Tc ( ) Tj3 0  TD /F6 12  Tf0.06  Tc (z) Tj5.04 0  TD /F1 12  Tf0  Tc ( ) Tj3 0  TD /F6 12  Tf0.06  Tc (z) Tj5.04 0  TD /F1 12  Tf0  Tc ( ) Tj3 0  TD /F6 12  Tf0.06  Tc (z) Tj5.04 0  TD /F1 12  Tf0  Tc ( ) Tj3 0  TD /F6 12  Tf0.06  Tc (z) Tj5.04 0  TD /F1 12  Tf0  Tc ( ) Tj3 0  TD /F6 12  Tf0.06  Tc (z) Tj5.04 0  TD /F1 12  Tf0  Tc ( ) Tj3 0  TD /F6 12  Tf0.06  Tc (z) Tj5.04 0  TD /F1 12  Tf0  Tc (....) Tj12 0  TD /F1 21.96  Tf5.55  Tw ( ) Tj179.16 41.4  TD /F1 12  Tf-0.0748  Tc 0.0748  Tw (  IDENTIFICADOR) Tj97.68 0  TD 0  Tc 2.4  Tw ( ) Tj-97.68 -13.8  TD -0.0312  Tc 0.0312  Tw (  COMENT\301RIO) Tj85.68 0  TD 0  Tc 2.4  Tw ( ) Tj-85.68 -13.8  TD -0.0201  Tc 0.0201  Tw (  LARGURA E ALTURA \(Width x Height\)) Tj211.08 0  TD 0  Tc 2.4  Tw ( ) Tj-211.08 -13.8  TD -0.0109  Tc 0.0109  Tw (  Um caracter por pixel \(0 ou) Tj138.72 0  TD -0.018  Tc 0.018  Tw ( 1\)) Tj12.96 0  TD 0  Tc 2.4  Tw ( ) Tj-151.68 -13.8  TD 3  Tw ( ) TjET0 0 0 rg 165.48 423.48 2.16 2.28 re f165.48 423.6 2.16 2.16 re f167.64 423.6 2.16 2.16 re f169.8 423.6 296.4 2.16 re f466.2 423.48 2.16 2.28 re f466.2 423.6 2.16 2.16 re f165.48 354.48 2.16 69 re f466.2 354.48 2.16 69 re fBT96.48 331.92  TD0 0 1 rg /F1 21.96  Tf5.55  Tw ( ) Tj73.56 9.48  TD 1 0 0 rg /F1 12  Tf3  Tw ( ) Tj300.72 0  TD ( ) TjET0 0 0 rg 165.48 352.32 2.16 2.16 re f165.48 352.32 2.16 2.16 re f167.64 352.32 2.16 2.16 re f169.8 352.32 296.4 2.16 re f466.2 352.32 2.16 2.16 re f466.2 352.32 2.16 2.16 re fBT96.48 304.32  TD0 0 1 rg /F2 21.96  Tf0.0024  Tc 0  Tw (PGM) Tj51.24 0  TD 0 0 0 rg 0  Tc 0.03  Tw ( ) Tj5.52 0  TD 0 0 1 rg 5.55  Tw ( ) Tj16.8 9.36  TD 1 0 0 rg /F2 12  Tf-0.066  Tc 0  Tw (P5) Tj13.2 0  TD 0  Tc 3.48  Tw ( ) Tj-13.2 -13.8  TD -0.0051  Tc 0.0051  Tw (# CREATOR: XV Version 3.10a  Rev: 12/29/94) Tj241.8 0  TD 0  Tc 3.48  Tw ( ) Tj-241.8 -13.8  TD 0  Tw (# ) Tj9 0  TD 3.48  Tw ( ) Tj-9 -13.8  TD 0  Tw (30 20) Tj27 0  TD 3.48  Tw ( ) Tj-27 -13.8  TD 0  Tw (255) Tj18 0  TD 3.48  Tw ( ) Tj-17.88 -13.8  TD 0 0 0 rg /F5 12  Tf0.3  Tc 0  Tw (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc (....) Tj12 0  TD /F2 21.96  Tf5.55  Tw ( ) Tj175.8 69.24  TD 1 0 0 rg /F1 12  Tf-0.0748  Tc 0.0748  Tw (  IDENTIFICADOR) Tj97.68 0  TD 0  Tc 2.4  Tw ( ) Tj-97.68 -13.8  TD -0.0312  Tc 0.0312  Tw (  COMENT\301RIO) Tj85.68 0  TD 0  Tc 2.4  Tw ( ) Tj-85.68 -13.8  TD -0.0312  Tc 0.0312  Tw (  COMENT\301RIO) Tj85.68 0  TD 0  Tc 2.4  Tw ( ) Tj-85.68 -13.8  TD -0.0201  Tc 0.0201  Tw (  LARGURA E ALTURA \(Width x Height\)) Tj211.08 0  TD 0  Tc 2.4  Tw ( ) Tj-211.08 -13.8  TD -0.0669  Tc 0.0669  Tw (  M\301XIMO VALOR DE BRILHO) Tj167.04 0  TD 0  Tc 2.4  Tw ( ) Tj-167.04 -13.8  TD 0 0 0 rg -0.0433  Tc 0.0433  Tw (  TOM DE CINZA PARA CADA PIXEL) Tj199.32 0  TD 0  Tc 2.4  Tw ( ) Tj-199.32 -13.8  TD 1 0 0 rg 3  Tw ( ) TjET0 0 0 rg 165.48 324.72 2.16 2.28 re f165.48 324.84 2.16 2.16 re f167.64 324.84 2.16 2.16 re f169.8 324.84 296.4 2.16 re f466.2 324.72 2.16 2.28 re f466.2 324.84 2.16 2.16 re f165.48 228.12 2.16 96.6 re f466.2 228.12 2.16 96.6 re fBT96.48 205.44  TD0 0 1 rg /F2 21.96  Tf5.55  Tw ( ) Tj73.56 9.36  TD 1 0 0 rg /F2 12  Tf3  Tw ( ) Tj300.72 0.24  TD /F1 12  Tf( ) TjET0 0 0 rg 165.48 225.96 2.16 2.16 re f165.48 225.96 2.16 2.16 re f167.64 225.96 2.16 2.16 re f169.8 225.96 296.4 2.16 re f466.2 225.96 2.16 2.16 re f466.2 225.96 2.16 2.16 re fBT96.48 177.84  TD0 0 1 rg /F2 21.96  Tf0.0249  Tc 0  Tw (PPM) Tj47.64 0  TD 0 0 0 rg 0  Tc 0.03  Tw ( ) Tj5.52 0  TD 0 0 1 rg 5.55  Tw ( ) Tj20.4 9.36  TD 1 0 0 rg /F2 12  Tf-0.066  Tc 0  Tw (P6) Tj13.2 0  TD 0  Tc 3.48  Tw ( ) Tj-13.2 -13.8  TD 0  Tw (# ) Tj9 0  TD -0.0053  Tc 0.0053  Tw (CREATOR: XV Version 3.10a  Rev: 12/29/94) Tj232.8 0  TD 0  Tc 3.48  Tw ( ) Tj-241.8 -13.8  TD 0  Tw (# ) Tj9 0  TD 3.48  Tw ( ) Tj-9 -13.68  TD 0  Tw (30 20) Tj27 0  TD 3.48  Tw ( ) Tj-27 -13.8  TD 0  Tw (255) Tj18 0  TD 3.48  Tw ( ) Tj-17.88 -13.8  TD 0 0 0 rg /F5 12  Tf0.3  Tc 0  Tw (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc ( ) Tj3.12 0  TD /F5 12  Tf0.3  Tc (z) Tj-0.12 0  TD (z) Tj5.28 0  TD /F2 12  Tf0  Tc (....) Tj12 0  TD /F2 21.96  Tf5.55  Tw ( ) Tj175.8 69.12  TD 1 0 0 rg /F1 12  Tf-0.0748  Tc 0.0748  Tw (  IDENTIFICADOR) Tj97.68 0  TD 0  Tc 2.4  Tw ( ) Tj-97.68 -13.8  TD -0.0312  Tc 0.0312  Tw (  COMENT\301RIO) Tj85.68 0  TD 0  Tc 2.4  Tw ( ) Tj-85.68 -13.8  TD -0.0312  Tc 0.0312  Tw (  COMENT\301RIO) Tj85.68 0  TD 0  Tc 2.4  Tw ( ) Tj-85.68 -13.68  TD -0.0201  Tc 0.0201  Tw (  LARGURA E ALTURA \(Width x Height\)) Tj211.08 0  TD 0  Tc 2.4  Tw ( ) Tj-211.08 -13.8  TD -0.0669  Tc 0.0669  Tw (  M\301XIMO VALOR DE BRILHO) Tj167.04 0  TD 0  Tc 2.4  Tw ( ) Tj-167.04 -13.8  TD 0 0 0 rg -0.0385  Tc 0.0385  Tw (  VALOR DE INTENSIDADE PARA AS   ) Tj210.72 0  TD 0  Tc 2.4  Tw ( ) Tj-210.72 -13.8  TD -0.0327  Tc 0.0327  Tw (  BANDAS RGB PARA CADA PIXEL) Tj191.28 0  TD 0  Tc 2.4  Tw ( ) Tj-191.28 -13.8  TD 0  Tc -0  Tw (  \(R) Tj18 0  TD -0.0171  Tc 0.0171  Tw ( G B R G B R G B ......... R G B\)) Tj157.32 0  TD 1 0 0 rg 0  Tc 3  Tw ( ) TjET0 0 0 rg 165.48 198.24 2.16 2.28 re f165.48 198.36 2.16 2.16 re f167.64 198.36 2.16 2.16 re f169.8 198.36 296.4 2.16 re f466.2 198.24 2.16 2.28 re f466.2 198.36 2.16 2.16 re f165.48 87.84 2.16 110.4 re f165.48 85.68 2.16 2.16 re f165.48 85.68 2.16 2.16 re f167.64 85.68 298.56 2.16 re f466.2 87.84 2.16 110.4 re f466.2 85.68 2.16 2.16 re f466.2 85.68 2.16 2.16 re fendstream
+endobj
+26 0 obj
+9685
+endobj
+24 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/Resources <<
+/Font <<
+/F0 6 0 R 
+/F1 7 0 R 
+/F2 8 0 R 
+/F5 22 0 R 
+/F6 27 0 R 
+>>
+/ProcSet 2 0 R
+>>
+/Contents 25 0 R
+>>
+endobj
+30 0 obj
+<<
+/Length 31 0 R
+>>
+stream
+BT70.92 58.32  TD0 0 0 rg /F0 2.04  Tf0  Tc 0.5129  Tw ( ) Tj0 -8.76  TD /F0 9  Tf0.0177  Tc 0  Tw (Semin\341rio Interno, Projeto UPTK, UNESP, Departamento de Cartografia                                                                               ) Tj488.88 0  TD 0.0123  Tc 0.0057  Tw (                   Mauricio Galo, Mar\347o 2003) Tj156.24 0  TD 0  Tc 2.418  Tw ( ) TjET67.08 60.12 657.24 0.48 re fBT70.92 38.52  TD/F1 9.96  Tf1.95  Tw ( ) Tj0 468.12  TD /F1 21.96  Tf4.47  Tw ( ) Tj0 -25.44  TD 0.2 0.2 0.6 rg /F2 21.96  Tf-0.0069  Tc 0  Tw (Refer\352ncias) Tj109.68 0  TD 0  Tc 6.39  Tw ( ) Tj-109.68 -25.08  TD 0 0 0 rg /F1 21.96  Tf4.47  Tw ( ) Tj0 -25.32  TD 29.91  Tw ( ) Tj35.4 0  TD 0.0128  Tc 0.0172  Tw (Manuais ) Tj81.24 0  TD /F3 21.96  Tf0.06  Tc 0  Tw (on) Tj22.08 0  TD 0.0073  Tc (-) Tj7.32 0  TD 0.015  Tc (line) Tj33 0  TD /F1 21.96  Tf0.0084  Tc 0.0216  Tw ( dos Sistemas Operacionais Unix e Linux.) Tj369.48 0  TD 0  Tc 4.47  Tw ( ) Tj-548.52 -25.32  TD ( ) Tj0 -25.32  TD 29.91  Tw ( ) Tj35.4 0  TD 0.0132  Tc 0.0168  Tw (P\341ginas da internet) Tj167.4 0  TD 0  Tc 4.47  Tw ( ) Tj-202.8 -25.32  TD ( ) Tj70.8 -25.2  TD 0.0103  Tc 0  Tw (http://www.dcs.ed.ac.uk/home/mxr/gfx/) Tj351.72 0  TD 0  Tc 4.47  Tw ( ) Tj-351.72 -25.32  TD 0.0095  Tc 0  Tw (http://www.math.iastate.edu/burkar) Tj312 0  TD 0  Tc (dt/data/pbm/pbm.html) Tj195.84 0  TD 0  Tc 4.47  Tw ( ) Tj-578.64 -25.32  TD ( ) Tj0 -25.32  TD ( ) TjT* ( ) TjT* ( ) Tj0 -25.2  TD ( ) Tj0 -25.32  TD ( ) TjT* ( ) TjT* ( ) TjETendstream
+endobj
+31 0 obj
+1562
+endobj
+29 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/Resources <<
+/Font <<
+/F0 6 0 R 
+/F1 7 0 R 
+/F2 8 0 R 
+/F3 12 0 R 
+>>
+/ProcSet 2 0 R
+>>
+/Contents 30 0 R
+>>
+endobj
+34 0 obj
+<<
+/Length 35 0 R
+>>
+stream
+BT70.92 58.32  TD0 0 0 rg /F0 2.04  Tf0  Tc 0.5129  Tw ( ) Tj0 -8.76  TD /F0 9  Tf0.0177  Tc 0  Tw (Semin\341rio Interno, Projeto UPTK, UNESP, Departamento de Cartografia                                                                               ) Tj488.88 0  TD 0.0123  Tc 0.0057  Tw (                   Mauricio Galo, Mar\347o 2003) Tj156.24 0  TD 0  Tc 2.418  Tw ( ) TjET67.08 60.12 657.24 0.48 re fBT70.92 38.52  TD/F1 9.96  Tf1.95  Tw ( ) Tj0 468.12  TD /F1 21.96  Tf4.47  Tw ( ) Tj0 -25.32  TD ( ) Tj0 -25.2  TD ( ) Tj0 -25.32  TD ( ) TjT* ( ) TjT* ( ) TjT* ( ) Tj0 -25.2  TD ( ) Tj303.72 -25.44  TD 0 0.502 0 rg /F2 21.96  Tf0.0099  Tc 0  Tw (FIM) Tj42.72 0  TD 0  Tc 6.39  Tw ( ) TjETendstream
+endobj
+35 0 obj
+724
+endobj
+32 0 obj
+<<
+/Type /Page
+/Parent 33 0 R
+/Resources <<
+/Font <<
+/F0 6 0 R 
+/F1 7 0 R 
+/F2 8 0 R 
+>>
+/ProcSet 2 0 R
+>>
+/Contents 34 0 R
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F0
+/BaseFont /Arial,Italic
+/Encoding /WinAnsiEncoding
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F1
+/BaseFont /TimesNewRoman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F2
+/BaseFont /TimesNewRoman,Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F3
+/BaseFont /TimesNewRoman,Italic
+/Encoding /WinAnsiEncoding
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F4
+/BaseFont /TimesNewRoman,BoldItalic
+/Encoding /WinAnsiEncoding
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F5
+/BaseFont /GDGEGH+MonotypeSorts
+/FirstChar 31
+/LastChar 255
+/Widths [ 750 278 974 961 974 980 719 789 790 791 690 960 939 549 855 911 
+933 911 911 911 911 911 911 911 911 911 911 760 759 754 494 552 
+537 577 692 786 788 788 790 793 794 816 823 789 841 823 833 816 
+831 923 744 723 749 790 792 695 776 768 792 759 707 708 682 701 
+826 815 789 789 707 687 696 689 786 787 713 791 785 791 873 761 
+762 762 759 759 892 892 788 784 438 138 277 415 392 392 668 668 
+750 390 390 317 317 276 276 509 509 410 410 234 234 334 334 750 
+750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 
+750 750 732 544 544 910 667 760 760 776 595 694 626 788 788 788 
+788 788 788 788 788 788 788 788 788 788 788 788 788 788 788 788 
+788 788 788 788 788 788 788 788 788 788 788 788 788 788 788 788 
+788 788 788 788 788 894 838 1016 458 748 924 748 918 927 928 928 
+834 873 828 924 924 917 930 931 463 883 836 836 867 867 696 696 
+874 750 874 760 946 771 865 771 888 967 888 831 873 927 970 918 
+750 ]
+/FontDescriptor 23 0 R
+>>
+endobj
+23 0 obj
+<<
+/Type /FontDescriptor
+/FontName /GDGEGH+MonotypeSorts
+/Flags 16388
+/FontBBox [ -250 -200 1224 800 ]
+/MissingWidth 750
+/StemV 239
+/StemH 239
+/ItalicAngle 0
+/CapHeight 800
+/XHeight 560
+/Ascent 800
+/Descent 200
+/Leading 0
+/MaxWidth 1020
+/AvgWidth 750
+/FontFile2 36 0 R
+>>
+endobj
+36 0 obj
+<<
+/Filter /ASCII85Decode 
+/Length 37 0 R
+/Length1 39 0 R
+/Length2 38 0 R
+/Length3 40 0 R
+>>
+stream
+!!*'"!"ApY!!<3t:K&o%HJN8t!!!#S!!!!o@r5Xng*=3H!!!$L!!!$t@s2r::C]qK
+!!!(J!!!1EAoMC"O/M6!!!!8n!!!-HB5Dj*9L>-k!!!E@!!!"fBOtU_Z<N.A!!!G0
+!!!!WBP:sc%R(+s!!!Gf!!!!EBPhj9b.p-d!!!H5!!!*XCi<fl(h=JD!!!Ql!!!%i
+D..[.""FNb!!!V_!!!!ADIIBnP88O<!!!W*!!!1!E,Tf>qKk%:!!!g*!!!0jE,oN/
+DMYDt!!"!s!!!(H!!!3"!K[9b!!!0Y"Z$,Y!La0J"Z$,Ys*ar[!YPnD!<EB*!<E3%
+!<E0#zzz!!#`3DJoM?n0%6"z#`f1(!Lj&h!!3-$z!#,D8z!?(q<!<rN(!<<*"z!<N6$
+!!3-#zzz!!*'"!sAc3#7(VC$OdIS%hK<c',2/s(Dn#.)]Tk>+!;^N,:"Q^-R^Dn.kE8)
+0/,+91GgsI2`NfY4$5Yi5<qM$6UX@47n?3D92&&T:Jand;cHat='/U/>?kH??XR:B
+@Uiq[AnPdkC27X&DJoLTzzzz!,upuF*)PJGBeCZH[L6jIt3*%K7nr5LPUeEMi<XU
+O-#KePE_>uQ^F20S"-%@T:hmPUSO``Vl6SpX/rG+YHY:;Za@-K\%&u[]=bhk!5H=c
+_Sa=2`lH0Bb0/!/!!E9]!!!!+!!iQ+!!;Y=n;Zr+nG`If!!)L2n::#%nF?PY&*"2[
+&'kd3!!*'"zz"d&cb"i10="WIGF"g\13!!*&[z!>YV"z"i10=zs5X.["f)+uzzzz
+zzzs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzzzz!!*'!s8W-!z!&=NSzzzzz!!!!S
+!0mVR!(HrY!<iHg!-\E1!%7h5!%S'3!'(%8!&"="!42_.!%@n"!."Z9!!E=e!+H,I
+!3?1=!gs+u!*'#&!gs$:!($[C!1<h\!"AoX!(R$,!,r+K!&ag?!(R#Z!<*"U!Mfb[
+!_NN3!!N?5!$hOo!%Iu-!13bj!8.A<!BC0D!HJ4'!LNn^!Up9.!$;2!!':0N!(R#d
+!."X[!5\`t!^6Si!"JuE!#>P]!(R$/!4)[Y!:0`!!Jgct!U0Zo!&ag>!'pT[!)W_s
+!*TAY!0mPT!3uU>!5efW!6>/l!=&WS!D<Gd!HA-s!KmL"!a,S-!a5YH!k/@&!#>PP
+!$_Im!%Isu!&4I9!'^H\!)W_r!*]GF!-S?f!.Y'9!2BP1!6P;s!:U!q!@Imu!@n1,
+!E9)8!G_^u!NQ7@!T=)*!\+7;!cJ-b!j2_D!"f2Y!%S%(!'^H`!+>k:!,)@H!,hjY
+!.Ouu!.b-'!/:K:!1*\S!1a+^!1s7l!3Q=8!7(Yn!8RYF!:g."!@7b&!B:*b!GDL]
+!JpiI!M'7d!O`$U!S[Y0!W3!*!^d$P"/Z4""Vh3,"sO8\#1<J`!$D7s!'C6D!'C6E
+!(R#h!*0)$!*TA,!*fM/!-&![!-A3`!-S?i!.Y'$!0$uM!3lO0!3uU1!4MsH!5nlb
+!8.A-!8RYD!:g-_!;6Eo!<W?,!=&W5!>#8I!@In#!Aaa<!D3Af!Drkt!F#S1!Fu4F
+!HA-\!K[>D!L*VQ!M][m!N#mq!O2[3!ODg;!P8BP!QP5^!SRSF!ZD+^!]:$<!^-TV
+!`K/!!b2:U!eUQ/!g*PM!gWnR!mC_m!mq)!!p9X_!so&X"#^6C"(VLU"/>tA"?-HD
+"J>nJ"PO"6"Pa.8"R-'g"Wdh,"]tqZ"dT>E"l0@r#%Rq4#.=`e#2]XK#5SR[!"AoR
+!(-`d!*TA?!-/'f!/^c7!07,H!2]aq!4Dm9!4MsH!7(Yo!87G-!9F4B!:'XQ!=JoC
+!?;+_!Cd)Z!Cd)]!EfG,!GqjX!HeEd!Ib'3!KmJR!N#mq!N?+9!Q+rW!T!k7!T=(M
+!V6?f!W<&t!WW9:!YthT!ZD+]!ZqIf!\XU3!]0sA!_<Ar!a5Y2!b;@M!dFct!eCE/
+!g!J\!iQ1$!l"fS!lP/`!o*k8!q69g!t,2A"""+#"#L*;"'bqK",d8@".fUf"/H%$
+"3(Gj"475("8`3$"Af5I"HEW<"TS],"Vh2!"^_Fb"el12"m-!W"q(VM"r[[d"u-<R
+#"f)"#&=El#+#P8#5/9(#8ROq#>#/U#KHh*!1a+Lzzz!!!">!)3Hk!*fPo!%7gt!!*'D
+!4`5:!+c6R!egYX!5\j9!5\j9!1O!;!.Fp]!>5Mo!)!<k!@n/!!FGkp!(m5m"i(,/
+!Fu2N!87F#!'L=f!P\UU"""%0!8%8Q!%e3(!0mR)!5AR?!j2]e!N?'U!'C8V!(R#H
+!,_nP"4[Lc!a#G<!:U#l!<iH^!Rq3V!H%qY!t#*=!q69F"'bjd"TASn"i10=!>kf!
+!pp&p!4;eL!g<[l"FUA)5W(AS1,1I9/hJV).Ocbn-7'o^+sA'N*ZZ4>)AsA.()7Ms
+&ePZc%LigS$4-tC"pG,3!W`9P73b90+L!2#YQQ9t84Y<`73b8H@3Dd$@B]k],=k?W
+/4CdQ@'Cb^+L"=CYQQ9t84Y<`73b8H@B^k^+L!2$YTRAY"=>?a81cA],=Z(F5[be>
+AmhhG-6l&P/M'=87O)?G5[Y_=-=O,D@B]k],=k?W/--;)49.Jq/0IA++L'*Y,9XJs
+>#ABH+L$hn,?Z.nm86t1+L"R.,?Z.n"=?uJ,9X3"6mGhX+Y>5f+@R,\6m/]7?m%nB
+7WrI&7:8M8/-3!`$:?%*AI:"?!3lk=6R+r+/M$n+7O)lW!Cf6RYXTjVYl[B`3jA_d
+#Rr@:7BfB/6q+=O,=F+7+@WL:,t26QYY\2!778(<+^$BJYQ7+$,@[kW,=8UF.kN:p
+7BcbZ?plRt!O)bqYQmO,$8!eOBs9j2YQ0S(Yq3\JN49E!@UL\pA0YVn>Ze34@9G05
+7Bd@SYX]p+YXa$#(bI;K!N&guYR*\,!<?)$\H#8%J?_[r6pt0\/M)b]7>ctXYRrCi
+7jCF+7sa55/M&J)92\k8778(>7>r@n"!pB6=@=)O+^%r"/--S@/M&$K"!pC?8L$Vl
+YY$-.7:d]4+Ktqo?tpgg#pVb]BSpP4@3DcmMQd(YGp0I38jKrehuHA<+Gs-#,9a9U
+)^AKo6l`HG!/a["ZUmD)8OXbZ<*1@gYWj'O=^a]M/?o`u6R+r+/M+.:%mqR/$S<p7
+$k5QK6OPIsYm_(/,=?#M/M+.:%mqR/AIC(@Yn.L7,=?#M/M'Om=@GUs+X'u?/--lt
+"!o0`YWuU#+CcOu!)coDYQ?+1,Hq4qAN0[I@lPDN+X&!P=TL**7;8t46XYc_3\;l`
+YQZ<a,9Vm:!3cK3,OOhL/-2sY,nM:DMY-tR!F[5?ln'ahYQcBbo`4CG/M&$K!FPp>
++?TWd/M&$K!FZ!?+?TWd/M++V/$LKQ/M$n+#=G^"6OPIs5-QLd/M&b2/9\6j,B+2:
+YY.D-YQ.L%YQ8083\M=%/0Q/FA0YWC\3L%'/M&'LJ5KDWA0YWC\0(c\)mTH/0.U20
+!amT2+gAaZ=:A^bA;dr4<FQoQ!.Z^Q=g.s8/M%<@,@l_B5QG8$,9\WiZiC+,!!!b<
+#UZb]-Emb&YQuQd&/GpJBKE?u(+h)E!!*'"!#;^D-Emb&YQuS[#UU&n()',MANI$r
+(+h(+,9TDtYlk4VMGRD%@>]s^-=D^i=[Xhm7O(B1MMakJ+@_5rMIF$pJ79`G&0m(;
+91t.]7:77B!)Qe%!F`M<^l'/95`AiZ!BMe`YVRf6.Om"M!W`9$!!N?+!!!*$#666]
+"HWTgO9)im1pR)g"MOmt!!!!&!BL2_!\XNR0E1&EjT%OEjUgN.0Hh#O&LAS4+TVQG
+!;mrA_#-G$!;ca="Mb!;!<>1]!!=#@ZN((-.C90]!X\t<!Z40;!!48E:]^`\!h]V!
+!l+la!q66q!\[i!m/T@80e`V?+V=emr?MQQqFq."!!!$"!!!$"!%pSp*FB=>o`,p:
+z!2X2GXoJG%!2]F6@fQK-AI$]hB`J,5$NL/,z!<<*(C&VZD!!jbJrr<$(e,TLLzz
+z!!(7J!!*'"!!!!'!!!!#3<0$ab5cPfYQ.B&b5cPff)Q6`^]5tk:]QCX;?/ia;ue*G
+K`F(;XoM'!K)emSA,q8ef)U%#8cXAHG5t/=8cXAH8cVHg8cWN08cU+A8cV9b8cW6(
+8cW3'9)nnr8cUUO8cVBd'ECQ+&cbE+#QRBtoDhAaC&enM9E7fjScD=cM#]XB8cVKg
+:&m]e:&m]e;?08m=9)#!=o_8$LB(!PPlOJ^:]N`b\c?:GPlOJ^WW6'(LB'aIV>s-l
+@K9sCoDguWaT*UjrW#In;?02k<WHM2NrVfW2#p/O,lgF><WGYp&cbE*VuT'dWW5Hk
+FT<<`S,b&DS,c%`K`FUI:]Nui:]OZ&VuSg]IfMe=OT7KIK)brW8cV!Y9E8,tZiF/3
+;uh7L8,tLO;ue]YquBY"(B?,n(]Z5o(]Z5o&caQh&caQi,60V,,60V+:&mum7K?!^
+JH.b4)ZVr$2ZPoA;?/c\,62`d,62`f=9)&!=9)%t*ro4A*rnA(M#].0M#^HU2#o61
+2#p)K&c`XL&caKc8,t:F8,u-\hZ-.IhZ-.JX8l`3X8l`6gAnP_=o`jO=o^Pf8,u0a
+<WGhu'EFX-'EA.<2#p/M_>kDVN;u'E!WW9+:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg
+:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg
+:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg
+:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mch-NG_&ZiEN#+TP4=WW7,EquGCT
+A,nt#quHKs=9(AeC&h!6D#gL>D#gL=X8kcqquB:mTE#o9A,o+)A,o+)<WLSRE<&uD
+Er]5CZiFA:&-+0aYQ.6!YQ.T+n,Rk@n,Rk?OT8#XOT8#YrW#XsrW#Xs'EB3[OT7'>
+.f`WTlMrjJ.f_"')Z[VX]E!$Y)Z[taV>s*jquA_^C&k4<_>kV^=9)8"!!"JK.KCpu
+.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu
+.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu
+.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu
+.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf
+9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf
+9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf
+9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf
+9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf!<<*"blL]B&-)\1
+!!!'#&-*@D2uipZrWT+u"onZ(!!!u><WE.#z!!%EI!!!$"z!<<f6I/j9Jz!WWH*OT5C^
+z!rs#8QiI-ez"99,9X8i8$z"TSr2^]4B8z"oo>;bQ%YDz#66pfhuEiZ!!EK+!WWW0
+*WQ9B!!EN,!WWc4.KBPN!!ET.!!)ir3WK6^!!ET.!<=ML1]RUX!!ET.!WW]3>Q=j+
+!!ET.!rs_NC&e>9!!ET."99hOOoPRa!!ET."TTA@\c;g4!!ET."op%QdJs@L!!ET.
+#69,Qq>^Tt!!EW/!WWW2FoVUE!!EZ0!WWc6JcGlQ!!E]1!WWW2OoPRa!!Ei5!WW]4
+ScAim!!Er8!WWi8X8i>&!!Eu9!WWW2^&S68!!F;B!WWW2aoDMD!!j>?!WWW2ec5dP
+!"927!WWW2iW'&\!"989!WWW2mSnINAS,@\AK[rp<+ohc9lFofFEqh:+@C'fE,Tc*
+FD5Z2+E2.,/g*PjFC?;k+B3#c+AHclDfg8DAKX?YEc>r;@<?4%DBNn7@kUf,E+L.j
+DesQ<Bl@m1+A$H\/g)l/3A<*H0d&buC`lViB4uC.+AuclATDs*A1gA?7n#p=.nsr"
+Dfg8DAQ*MfFE:>kB6A$!E^rMf77Tm!9lFofFEqh:;f?\uF%8Vg77Tm!9lFofFEqh:
+;f?\uF&ljmF(oQ1+>GK&0h4W%77Tm!9lFofFEqh:;f?\uF%pRjDfg8DAKXoiEcc@F
+BlbD*+EVX4A7]UdEbce9Aft&dAKX]cDJsWBE+L.ZDfTf8Eaa'(Df-\:Ch#'tD?+ST
+EWBqV@/t*D;ZLn>@/t0FA,p$<EWBVM;uh1DDuaGLAcQ6>@fU'?+98A@+95@@BE2TD
++95+9DZFYTDZFkZGlVd`AH3hQ6ND$)EWC%YDZFeX@/tBLB`N&OD?(dZDua\S@fS+]
++94e0@/tBL@/qDMW;n%@;ugS3AH3hQ9`T)3D?+STF9$RdDuaGL+94b/DZFeXDuaeV
+EWBMJF9$"TDZFYT+96?\C]IrF0*"rOGlVd`AH3hQ;ZL_9C]JSXF9$"TDZFYTEr[<_
+8H<W.@fS+]+94+r3<2&>0E<a+3<1c6+94\-C]J8O+95:>B`McGBE3,SEr[<_;?18.
+Er]bOEWC7_AH66@/c\BA6i]^W70#gX8,t.?9`T)3D?+STF9$RdDuaGL;ZL_9EWC1]
+Er])<AH6?CFT?4X@/t<J7fYpW7fYsX7fZ'[.f`9DDZFYTDZFkZGlVd`AH5X/DZFeX
+F9$@^7fYpW7fYsX7fZ'[.f`9DDZFYTDZFkZGlVd`AH5X/DZFeXF9$@^<WH\2EWC.\
+B`N&OD?(dZ0`Wg+0E<g-7fYpW7fYsX7fZ'[.f`9DDZFYTDZFkZGlVd`AH5X/DZFeX
+F9$@^9`T)3D?+STF9$RdDuaGL+95=?DZFeXF9$@^+96*UEr[<_@/qDMF9$=]@/sg<
+AH6QI@/t<JCB,IWDZFAL+95@@BE2TD+95+9DZFYTDZFkZGlVd`AH3hQ6ND$)EWC%Y
+DZFeX@/tBLB`N&OD?(dZDua\S@fS+]:&o24EWBqV@/t*D:&o24EWBqV@/s^9C]J/L
+:&o24EWBqV@/t*D:&o24EWBqV@/t*DAH5X/F9#_LD?+2I@/s^9EWBVM:&o24EWBqV
+@/t*D:&o24EWBqV@/t*D:&o24EWBqV@/t*D:&o24EWBqV@/t*D:&o24EWBqV@/t*D
+!WW3#!!!$!ScE[/zzzzzbl@_D!!!!"!W`B("9AZ,"p"r0#QY54$3:M8$ipe<%KR(@
+&-3@D&ciXH'EJpL(',3P(]bKT)?CcX*!%&\*W[>`+9<Vd+ornh,QT1l-35Ip-ikat
+.KM%#/-.='/cdU+0EEm/1''031]]H72?>`;2uu#?3WV;C497SG4omkK5QO.O630FS
+6if^W7KH![8-)9_8c_Qc9E@ig:'",k:]XDo;?9\s;uou"<WQ8&=92P*=ohh.>QJ+2
+?3+C6?ia[:@KBs>A-$6BAcZNFBE;fJC&r)NC]SARD?4YVDujqZEWL4^F9-LbFocdf
+GQE'jH3&?nHi\WrIK=p!J,t3%JcUK)KE6c-L&m&1L]N>5M?/V9Muen=NWG1AO9(IE
+Oo^aIPQ@$MQ3!<QQiWTURK8lYS,o/]ScPGaTE1_eU&h"iU]I:mV?*RqVu`juWWB.$
+X9#F(XoY^,YQ;!0Z2q94ZiRQ8[K3i<\,j,@\cKDD]E,\H^&btL^]D7P_?%OT_u[gX
+`W=*\a8sB`aoTZhF)YPtAHH9p!b!he@59Ml!b!kd@5J$o2$@>B0f]AF0ekWj@50Jq
+"(<o="(<o>"(<o?"(<o@"(<oA"(<oB"CX#=2$78A2ZmJC3!3SD3<N\F0EY`=0`ti>
+1':r?1BV&@1]q/A2$78B2?RAC2ZmJD3!*MH!b""h@5n<s3<N\E0EY`=3<N\G0EY`>
+0`ti?1':r@1BV&A1]q/B2$78C2?RAD2ZmJE3!3SF3<N\H0EY`?0`ti@1':rA1BV&B
+1]q/C2$78D2?RAE2ZmJF3!3SG3<N\I0EY`@0`tiA1':rB1BV&C1]q/D2$78E2?RAF
+2ZmJG3!3SH3<N\J0EY`A0`tiB1':rC1BV&D1]q/E2$78F2?RAG2ZmJH3!3SI3<N\K
+0EY`B0`tiC1':rD1BV&E1^%5B0J`f>2`1_H1,(Ne@5g(H@5g+I@5g.J@5g1K@5otD
+@5p"E@5p%F@5p(G@6$7K@6$:L@6$=N@50Gi"(=/L"(=2D"(=2G"(=2H"(=2E"(=2F
+"CX&>2$78H2$@>C0K'#A3&UkI3&^qJ3&h"K3AgnI3Aq"K0eb<b@50Gk"CX#=1B_,@
+0Jio@0ebKg@50Gp"CX#=3!<YE0erl?0ekBc@50Jj"CX#=3<WbF1,&i>0etHd@50Mm
+"CX#?1B_,@1,K,B0etTh@50Mq"CX#?2[!PD1,oDF0et`l@50Pl"CX#@0a(o>1GT)A
+0f(Tg@50Pp"CX#@2$@>B1H#AE0f(`k@50Pt"CX#@3<WbF1b]&@0f1Tf@50So"CX#A
+1B_,@1c,>D0f1`j@50Ss"CX#A2[!PD1cPVH0f1ln@50Vn"CX#B0a(o>2)5;C0f:`i
+@50Vr"CX#B2$@>B2)YSG0f:lm@50W!"CX#B3<WbF2D>8B0fC`h@50Yr"CX#C1^%5A
+3Aq"K0fCll@50bt"CX#C2?[GC2E(bI0fCuo@50Z#"CX#D0Ebf=2_bGD0fLij@50\s
+"CX#C1'D#?2`(YG0fLrm@50]!"CX#D2[!PD2`LqK0fM)q@50bu"CX#E0Ebf=3B74N
+0fUlj@59Mj"CX#E1'D#@0JN]=0fUrl@50_u"CX#F2[!PD3&LhI0f_&n@50c%"CX#E
+2?[GC3AgqJ0fV)p@50`$"CX#E3<WbF3A:SE0f^sS(]YZ[R/eoBR/fJRR/g%bR/d?i
++9A;=0EJ!M5QR\]:][BmDuld8"TX&SEr`EGF$L09!(KEX!!!WD#XCp'\,c[s:Im5`
+hFKCEgdj1Cg.3tAfgmk@Y"1;jTh$p]T1C^[O%;#KK1Ia?IRl4:BLjm$A4SHu?q<$q
+?Uupp?:Zgo>t?^n>=^Ll=\(:j<Cekf\,jIP82;<t!Pu'41*F(-5dEp9+LhG9Z:H_n
+\,eau82;<t!<f]!1*F(-!^N#A1*GCD1*G=B1*F(t1*E;^1*E5\1*DZL1*DTJ1*D9A
+1*D6@1*D0>1*D!91*Cg41*Cd31*C:%1*C.!1*C$s1*B[i1(ag)$':S\OHp-5P6[2)
+#EX9;OELkjEX.\A#EWO&OBMmN<sOgf#:'R!#TsBo#TO*g#T*g_#S[OW#S77O#RgtG
+#RC\?#QtD7#QP,1!DBZ4@fT/2+L(Q<,Ida];-L1-,=2F8&k`3t<'n+q!=-DoN>=#p
+.k<,#.k<,#.k<,#.k<,#.i9ce.k<,#.k<,#.k:Wn:jKSO*s'ct#9Ukh+)hH8.k=7k
+H+<p:!R\=\OMhBcE!ImD.i8;m:]N7D@>eM6!%TQM.k<,#.k<,#.k<,#.k<,#.k<,#
+.fh.N.k<,#.k<,#.k<,#.k<,#.k:WhBi@>!92J`q#QR1o6X3`u#QR1oZN:LA&joc/
+)^/?N((bFKYS'<*\N:rOIN,j$!!0"u$S,Aa$mS*C%3n3D&jod3/O:sS)nH.P"98E0
+.p9(d,=8UF,=8UI6Wgl9IQJ\l\cJ`4!!!BW=g/G^6Eh%H632.KEr~>
+endstream
+endobj
+37 0 obj
+9981
+endobj
+39 0 obj
+7941
+endobj
+38 0 obj
+0
+endobj
+40 0 obj
+0
+endobj
+27 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F6
+/BaseFont /HDGEGH+MonotypeSorts
+/FirstChar 31
+/LastChar 255
+/Widths [ 750 278 974 961 974 980 719 789 790 791 690 960 939 549 855 911 
+933 911 911 911 911 911 911 911 911 911 911 760 759 754 494 552 
+537 577 692 786 788 788 790 793 794 816 823 789 841 823 833 816 
+831 923 744 723 749 790 792 695 776 768 792 759 707 708 682 701 
+826 815 789 789 707 687 696 689 786 787 713 791 785 791 873 761 
+762 762 759 759 892 892 788 784 438 138 277 415 392 392 668 668 
+750 390 390 317 317 276 276 509 509 410 410 234 234 334 334 750 
+750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 
+750 750 732 544 544 910 667 760 760 776 595 694 626 788 788 788 
+788 788 788 788 788 788 788 788 788 788 788 788 788 788 788 788 
+788 788 788 788 788 788 788 788 788 788 788 788 788 788 788 788 
+788 788 788 788 788 894 838 1016 458 748 924 748 918 927 928 928 
+834 873 828 924 924 917 930 931 463 883 836 836 867 867 696 696 
+874 750 874 760 946 771 865 771 888 967 888 831 873 927 970 918 
+750 ]
+/FontDescriptor 23 0 R
+>>
+endobj
+28 0 obj
+<<
+/Type /FontDescriptor
+/FontName /HDGEGH+MonotypeSorts
+/Flags 4
+/FontBBox [ -250 -200 1224 800 ]
+/MissingWidth 750
+/StemV 137
+/StemH 137
+/ItalicAngle 0
+/CapHeight 800
+/XHeight 560
+/Ascent 800
+/Descent 200
+/Leading 0
+/MaxWidth 1020
+/AvgWidth 750
+/FontFile2 41 0 R
+>>
+endobj
+41 0 obj
+<<
+/Filter /ASCII85Decode 
+/Length 42 0 R
+/Length1 44 0 R
+/Length2 43 0 R
+/Length3 45 0 R
+>>
+stream
+!!*'"!"ApY!!<3t:K&o%HJN8t!!!#S!!!!o@r5Xng*=3H!!!$L!!!$t@s2r::C]qK
+!!!(J!!!1EAoMC"O/M6!!!!8n!!!-HB5Dj*9L>-k!!!E@!!!"fBOtU_Z<N.A!!!G0
+!!!!WBP:sc%R(+s!!!Gf!!!!EBPhj9b.p-d!!!H5!!!*XCi<fl(h=JD!!!Ql!!!%i
+D..[.""FNb!!!V_!!!!ADIIBnP8SjD!!!W*!!!1!E,Tf>qKk%:!!!g*!!!0jE,oN/
+DMYDt!!"!s!!!(H!!!3"!K[9b!!!0Y"Z$,Y!La0J"Z$,Ys*ar[!YPnD!<EB*!<E3%
+!<E0#zzz!!#`3DJoM?n0%6"z#`f1(!Lj&h!!3-$z!#,D8z!?(q<!<rN(!<<*"z!<N6$
+!!3-#zzz!!*'"!sAc3#7(VC$OdIS%hK<c',2/s(Dn#.)]Tk>+!;^N,:"Q^-R^Dn.kE8)
+0/,+91GgsI2`NfY4$5Yi5<qM$6UX@47n?3D92&&T:Jand;cHat='/U/>?kH??XR:B
+@Uiq[AnPdkC27X&DJoLTzzzz!,upuF*)PJGBeCZH[L6jIt3*%K7nr5LPUeEMi<XU
+O-#KePE_>uQ^F20S"-%@T:hmPUSO``Vl6SpX/rG+YHY:;Za@-K\%&u[]=bhk!5H=c
+_Sa=2`lH0Bb0/!/!!E9]!!!!+!!iQ+!!;Y=n;Zr+nG`If!!)L2n::#%nF?PY&*"2[
+&'kd3!!*'"zz"d&cb"i10="WIGF"g\13!!*&[z!>YV"z"i10=zs5X.["f)+uzzzz
+zzzs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzzzz!!*'!s8W-!z!&=NSzzzzz!!!!S
+!0mVR!(HrY!<iHg!-\E1!%7h5!%S'3!'(%8!&"="!42_.!%@n"!."Z9!!E=e!+H,I
+!3?1=!gs+u!*'#&!gs$:!($[C!1<h\!"AoX!(R$,!,r+K!&ag?!(R#Z!<*"U!Mfb[
+!_NN3!!N?5!$hOo!%Iu-!13bj!8.A<!BC0D!HJ4'!LNn^!Up9.!$;2!!':0N!(R#d
+!."X[!5\`t!^6Si!"JuE!#>P]!(R$/!4)[Y!:0`!!Jgct!U0Zo!&ag>!'pT[!)W_s
+!*TAY!0mPT!3uU>!5efW!6>/l!=&WS!D<Gd!HA-s!KmL"!a,S-!a5YH!k/@&!#>PP
+!$_Im!%Isu!&4I9!'^H\!)W_r!*]GF!-S?f!.Y'9!2BP1!6P;s!:U!q!@Imu!@n1,
+!E9)8!G_^u!NQ7@!T=)*!\+7;!cJ-b!j2_D!"f2Y!%S%(!'^H`!+>k:!,)@H!,hjY
+!.Ouu!.b-'!/:K:!1*\S!1a+^!1s7l!3Q=8!7(Yn!8RYF!:g."!@7b&!B:*b!GDL]
+!JpiI!M'7d!O`$U!S[Y0!W3!*!^d$P"/Z4""Vh3,"sO8\#1<J`!$D7s!'C6D!'C6E
+!(R#h!*0)$!*TA,!*fM/!-&![!-A3`!-S?i!.Y'$!0$uM!3lO0!3uU1!4MsH!5nlb
+!8.A-!8RYD!:g-_!;6Eo!<W?,!=&W5!>#8I!@In#!Aaa<!D3Af!Drkt!F#S1!Fu4F
+!HA-\!K[>D!L*VQ!M][m!N#mq!O2[3!ODg;!P8BP!QP5^!SRSF!ZD+^!]:$<!^-TV
+!`K/!!b2:U!eUQ/!g*PM!gWnR!mC_m!mq)!!p9X_!so&X"#^6C"(VLU"/>tA"?-HD
+"J>nJ"PO"6"Pa.8"R-'g"Wdh,"]tqZ"dT>E"l0@r#%Rq4#.=`e#2]XK#5SR[!"AoR
+!(-`d!*TA?!-/'f!/^c7!07,H!2]aq!4Dm9!4MsH!7(Yo!87G-!9F4B!:'XQ!=JoC
+!?;+_!Cd)Z!Cd)]!EfG,!GqjX!HeEd!Ib'3!KmJR!N#mq!N?+9!Q+rW!T!k7!T=(M
+!V6?f!W<&t!WW9:!YthT!ZD+]!ZqIf!\XU3!]0sA!_<Ar!a5Y2!b;@M!dFct!eCE/
+!g!J\!iQ1$!l"fS!lP/`!o*k8!q69g!t,2A"""+#"#L*;"'bqK",d8@".fUf"/H%$
+"3(Gj"475("8`3$"Af5I"HEW<"TS],"Vh2!"^_Fb"el12"m-!W"q(VM"r[[d"u-<R
+#"f)"#&=El#+#P8#5/9(#8ROq#>#/U#KHh*!1a+Lzzz!!!">!)3Hk!*fPo!%7gt!!*'D
+!4`5:!+c6R!egYX!5\j9!5\j9!1O!;!.Fp]!>5Mo!)!<k!@n/!!FGkp!(m5m"i(,/
+!Fu2N!87F#!'L=f!P\UU"""%0!8%8Q!%e3(!0mR)!5AR?!j2]e!N?'U!'C8V!(R#H
+!,_nP"4[Lc!a#G<!:U#l!<iH^!Rq3V!H%qY!t#*=!q69F"'bjd"TASn"i10=!>kf!
+!pp&p!4;eL!g<[l"FUA)5W(AS1,1I9/hJV).Ocbn-7'o^+sA'N*ZZ4>)AsA.()7Ms
+&ePZc%LigS$4-tC"pG,3!W`9P73b90+L!2#YQQ9t84Y<`73b8H@3Dd$@B]k],=k?W
+/4CdQ@'Cb^+L"=CYQQ9t84Y<`73b8H@B^k^+L!2$YTRAY"=>?a81cA],=Z(F5[be>
+AmhhG-6l&P/M'=87O)?G5[Y_=-=O,D@B]k],=k?W/--;)49.Jq/0IA++L'*Y,9XJs
+>#ABH+L$hn,?Z.nm86t1+L"R.,?Z.n"=?uJ,9X3"6mGhX+Y>5f+@R,\6m/]7?m%nB
+7WrI&7:8M8/-3!`$:?%*AI:"?!3lk=6R+r+/M$n+7O)lW!Cf6RYXTjVYl[B`3jA_d
+#Rr@:7BfB/6q+=O,=F+7+@WL:,t26QYY\2!778(<+^$BJYQ7+$,@[kW,=8UF.kN:p
+7BcbZ?plRt!O)bqYQmO,$8!eOBs9j2YQ0S(Yq3\JN49E!@UL\pA0YVn>Ze34@9G05
+7Bd@SYX]p+YXa$#(bI;K!N&guYR*\,!<?)$\H#8%J?_[r6pt0\/M)b]7>ctXYRrCi
+7jCF+7sa55/M&J)92\k8778(>7>r@n"!pB6=@=)O+^%r"/--S@/M&$K"!pC?8L$Vl
+YY$-.7:d]4+Ktqo?tpgg#pVb]BSpP4@3DcmMQd(YGp0I38jKrehuHA<+Gs-#,9a9U
+)^AKo6l`HG!/a["ZUmD)8OXbZ<*1@gYWj'O=^a]M/?o`u6R+r+/M+.:%mqR/$S<p7
+$k5QK6OPIsYm_(/,=?#M/M+.:%mqR/AIC(@Yn.L7,=?#M/M'Om=@GUs+X'u?/--lt
+"!o0`YWuU#+CcOu!)coDYQ?+1,Hq4qAN0[I@lPDN+X&!P=TL**7;8t46XYc_3\;l`
+YQZ<a,9Vm:!3cK3,OOhL/-2sY,nM:DMY-tR!F[5?ln'ahYQcBbo`4CG/M&$K!FPp>
++?TWd/M&$K!FZ!?+?TWd/M++V/$LKQ/M$n+#=G^"6OPIs5-QLd/M&b2/9\6j,B+2:
+YY.D-YQ.L%YQ8083\M=%/0Q/FA0YWC\3L%'/M&'LJ5KDWA0YWC\0(c\)mTH/0.U20
+!amT2+gAaZ=:A^bA;dr4<FQoQ!.Z^Q=g.s8/M%<@,@l_B5QG8$,9\WiZiC+,!!!b<
+#UZb]-Emb&YQuQd&/GpJBKE?u(+h)E!!*'"!#;^D-Emb&YQuS[#UU&n()',MANI$r
+(+h(+,9TDtYlk4VMGRD%@>]s^-=D^i=[Xhm7O(B1MMakJ+@_5rMIF$pJ79`G&0m(;
+91t.]7:77B!)Qe%!F`M<^l'/95`AiZ!BMe`YVRf6.Om"M!W`9$!!N?+!!!*$#666]
+"HWTgO9)im1pR)g"MOmt!!!!&!BL2_!\XNR0E1&EjT%OEjUgN.0Hh#O&LAS4+TVQG
+!;mrA_#-G$!;ca="Mb!;!<>1]!!=#@ZN((-.C90]!X\t<!Z40;!!48E:]^`\!h]V!
+!l+la!q66q!\[i!m/T@80e`V?+V=emr?MQQqFq."!!!$"!!!$"!%pAd).*n:o`,p:
+z!2X2GXoJG%!2]F6@fQK-AI$]hB`J,5$NL/,z!<<*(C&VZD!!jbJrr<$(e,TLLzz
+z!!(7J!!*'"!!!!'!!!!#3<0$ab5cPfYQ.B&b5cPff)Q6`^]5tk:]QCX;?/ia;ue*G
+K`F(;XoM'!K)emSA,q8ef)U%#8cXAHG5t/=8cXAH8cVHg8cWN08cU+A8cV9b8cW6(
+8cW3'9)nnr8cUUO8cVBd'ECQ+&cbE+#QRBtoDhAaC&enM9E7fjScD=cM#]XB8cVKg
+:&m]e:&m]e;?08m=9)#!=o_8$LB(!PPlOJ^:]N`b\c?:GPlOJ^WW6'(LB'aIV>s-l
+@K9sCoDguWaT*UjrW#In;?02k<WHM2NrVfW2#p/O,lgF><WGYp&cbE*VuT'dWW5Hk
+FT<<`S,b&DS,c%`K`FUI:]Nui:]OZ&VuSg]IfMe=OT7KIK)brW8cV!Y9E8,tZiF/3
+;uh7L8,tLO;ue]YquBY"(B?,n(]Z5o(]Z5o&caQh&caQi,60V,,60V+:&mum7K?!^
+JH.b4)ZVr$2ZPoA;?/c\,62`d,62`f=9)&!=9)%t*ro4A*rnA(M#].0M#^HU2#o61
+2#p)K&c`XL&caKc8,t:F8,u-\hZ-.IhZ-.JX8l`3X8l`6gAnP_=o`jO=o^Pf8,u0a
+<WGhu'EFX-'EA.<2#p/M_>kDVN;u'E!WW9+:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg
+:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg
+:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg
+:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mcg:&mch-NG_&ZiEN#+TP4=WW7,EquGCT
+A,nt#quHKs=9(AeC&h!6D#gL>D#gL=X8kcqquB:mTE#o9A,o+)A,o+)<WLSRE<&uD
+Er]5CZiFA:&-+0aYQ.6!YQ.T+n,Rk@n,Rk?OT8#XOT8#YrW#XsrW#Xs'EB3[OT7'>
+.f`WTlMrjJ.f_"')Z[VX]E!$Y)Z[taV>s*jquA_^C&k4<_>kV^=9)8"!!"JK.KCpu
+.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu
+.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu
+.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu
+.KCpu.KCpu.KCpu.KCpu.KCpu.KCpu9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf
+9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf
+9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf
+9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf
+9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf9`Rlf!<<*"blL]B&-)\1
+!!!'#&-*@D2uipZrWT+u"onZ(!!!u><WE.#z!!%EI!!!$"z!<<f6I/j9Jz!WWH*OT5C^
+z!rs#8QiI-ez"99,9X8i8$z"TSr2^]4B8z"oo>;bQ%YDz#66pfhuEiZ!!EK+!WWW0
+*WQ9B!!EN,!WWc4.KBPN!!ET.!!)ir3WK6^!!ET.!<=ML1]RUX!!ET.!WW]3>Q=j+
+!!ET.!rs_NC&e>9!!ET."99hOOoPRa!!ET."TTA@\c;g4!!ET."op%QdJs@L!!ET.
+#69,Qq>^Tt!!EW/!WWW2FoVUE!!EZ0!WWc6JcGlQ!!E]1!WWW2OoPRa!!Ei5!WW]4
+ScAim!!Er8!WWi8X8i>&!!Eu9!WWW2^&S68!!F;B!WWW2aoDMD!!j>?!WWW2ec5dP
+!"927!WWW2iW'&\!"989!WWW2mSnINAS,@\AK[rp<+ohc9lFofFEqh:+@C'fE,Tc*
+FD5Z2+E2.,/g*PjFC?;k+B3#c+AHclDfg8DAKX?YEc>r;@<?4%DBNn7@kUf,E+L.j
+DesQ<Bl@m1+A$H\/g)l/3A<*H0d&buC`lViB4uC.+AuclATDs*A1gD@7n#p=.nsr"
+Dfg8DAQ*MfFE:>kB6A$!E_&Sg77Tm!9lFofFEqh:;f?\uF%A\h77Tm!9lFofFEqh:
+;f?\uF&ljmF(oQ1+>GK&0h=]&77Tm!9lFofFEqh:;f?\uF%pRjDfg8DAKXoiEcc@F
+BlbD*+EVX4A7]UdEbce9Aft&dAKX]cDJsWBE+L.ZDfTf8Eaa'(Df-\:Ch#'tD?+ST
+EWBqV@/t*D;ZLn>@/t0FA,p$<EWBVM;uh1DDuaGLAcQ6>@fU'?+98A@+95@@BE2TD
++95+9DZFYTDZFkZGlVd`AH3hQ6ND$)EWC%YDZFeX@/tBLB`N&OD?(dZDua\S@fS+]
++94e0@/tBL@/qDMW;n%@;ugS3AH3hQ9`T)3D?+STF9$RdDuaGL+94b/DZFeXDuaeV
+EWBMJF9$"TDZFYT+96?\C]IrF0*"rOGlVd`AH3hQ;ZL_9C]JSXF9$"TDZFYTEr[<_
+8H<W.@fS+]+94+r3<2&>0E<a+3<1c6+94\-C]J8O+95:>B`McGBE3,SEr[<_;?18.
+Er]bOEWC7_AH66@/c\EB6i]^W70#gX8,t.?9`T)3D?+STF9$RdDuaGL;ZL_9EWC1]
+Er])<AH6?CFT?4X@/t<J8,u$X7fYsX7fZ'[.f`9DDZFYTDZFkZGlVd`AH5X/DZFeX
+F9$@^8,u$X7fYsX7fZ'[.f`9DDZFYTDZFkZGlVd`AH5X/DZFeXF9$@^<WH\2EWC.\
+B`N&OD?(dZ0`Wg+0E<g-8,u$X7fYsX7fZ'[.f`9DDZFYTDZFkZGlVd`AH5X/DZFeX
+F9$@^9`T)3D?+STF9$RdDuaGL+95=?DZFeXF9$@^+96*UEr[<_@/qDMF9$=]@/sg<
+AH6QI@/t<JCB,IWDZFAL+95@@BE2TD+95+9DZFYTDZFkZGlVd`AH3hQ6ND$)EWC%Y
+DZFeX@/tBLB`N&OD?(dZDua\S@fS+]:&o24EWBqV@/t*D:&o24EWBqV@/s^9C]J/L
+:&o24EWBqV@/t*D:&o24EWBqV@/t*DAH5X/F9#_LD?+2I@/s^9EWBVM:&o24EWBqV
+@/t*D:&o24EWBqV@/t*D:&o24EWBqV@/t*D:&o24EWBqV@/t*D:&o24EWBqV@/t*D
+!WW3#!!!$!ScE[/zzzzzbl@_D!!!!"!W`B("9AZ,"p"r0#QY54$3:M8$ipe<%KR(@
+&-3@D&ciXH'EJpL(',3P(]bKT)?CcX*!%&\*W[>`+9<Vd+ornh,QT1l-35Ip-ikat
+.KM%#/-.='/cdU+0EEm/1''031]]H72?>`;2uu#?3WV;C497SG4omkK5QO.O630FS
+6if^W7KH![8-)9_8c_Qc9E@ig:'",k:]XDo;?9\s;uou"<WQ8&=92P*=ohh.>QJ+2
+?3+C6?ia[:@KBs>A-$6BAcZNFBE;fJC&r)NC]SARD?4YVDujqZEWL4^F9-LbFocdf
+GQE'jH3&?nHi\WrIK=p!J,t3%JcUK)KE6c-L&m&1L]N>5M?/V9Muen=NWG1AO9(IE
+Oo^aIPQ@$MQ3!<QQiWTURK8lYS,o/]ScPGaTE1_eU&h"iU]I:mV?*RqVu`juWWB.$
+X9#F(XoY^,YQ;!0Z2q94ZiRQ8[K3i<\,j,@\cKDD]E,\H^&btL^]D7P_?%OT_u[gX
+`W=*\a8sB`aoTZhF)YPtAHH9p!b!he@59Ml!b!kd@5J$o2$@>B0f]AF0ekWj@50Jq
+"(<o="(<o>"(<o?"(<o@"(<oA"(<oB"CX#=2$78A2ZmJC3!3SD3<N\F0EY`=0`ti>
+1':r?1BV&@1]q/A2$78B2?RAC2ZmJD3!*MH!b""h@5n<s3<N\E0EY`=3<N\G0EY`>
+0`ti?1':r@1BV&A1]q/B2$78C2?RAD2ZmJE3!3SF3<N\H0EY`?0`ti@1':rA1BV&B
+1]q/C2$78D2?RAE2ZmJF3!3SG3<N\I0EY`@0`tiA1':rB1BV&C1]q/D2$78E2?RAF
+2ZmJG3!3SH3<N\J0EY`A0`tiB1':rC1BV&D1]q/E2$78F2?RAG2ZmJH3!3SI3<N\K
+0EY`B0`tiC1':rD1BV&E1^%5B0J`f>2`1_H1,(Ne@5g(H@5g+I@5g.J@5g1K@5otD
+@5p"E@5p%F@5p(G@6$7K@6$:L@6$=N@50Gi"(=/L"(=2D"(=2G"(=2H"(=2E"(=2F
+"CX&>2$78H2$@>C0K'#A3&UkI3&^qJ3&h"K3AgnI3Aq"K0eb<b@50Gk"CX#=1B_,@
+0Jio@0ebKg@50Gp"CX#=3!<YE0erl?0ekBc@50Jj"CX#=3<WbF1,&i>0etHd@50Mm
+"CX#?1B_,@1,K,B0etTh@50Mq"CX#?2[!PD1,oDF0et`l@50Pl"CX#@0a(o>1GT)A
+0f(Tg@50Pp"CX#@2$@>B1H#AE0f(`k@50Pt"CX#@3<WbF1b]&@0f1Tf@50So"CX#A
+1B_,@1c,>D0f1`j@50Ss"CX#A2[!PD1cPVH0f1ln@50Vn"CX#B0a(o>2)5;C0f:`i
+@50Vr"CX#B2$@>B2)YSG0f:lm@50W!"CX#B3<WbF2D>8B0fC`h@50Yr"CX#C1^%5A
+3Aq"K0fCll@50bt"CX#C2?[GC2E(bI0fCuo@50Z#"CX#D0Ebf=2_bGD0fLij@50\s
+"CX#C1'D#?2`(YG0fLrm@50]!"CX#D2[!PD2`LqK0fM)q@50bu"CX#E0Ebf=3B74N
+0fUlj@59Mj"CX#E1'D#@0JN]=0fUrl@50_u"CX#F2[!PD3&LhI0f_&n@50c%"CX#E
+2?[GC3AgqJ0fV)p@50`$"CX#E3<WbF3A:SE0f^sS(]YZ[R/eoBR/fJRR/g%bR/d?i
++9A;=0EJ!M5QR\]:][BmDuld8"TX&SEr`EGF$L09!(KEX!!!WD#XCp'\,c[s:Im5`
+hFKCEgdj1Cg.3tAfgmk@Y"1;jTh$p]T1C^[O%;#KK1Ia?IRl4:BLjm$A4SHu?q<$q
+?Uupp?:Zgo>t?^n>=^Ll=\(:j<Cekf\,jIP82;<t!Pu'41*F(-5dEp9+LhG9Z:H_n
+\,eau82;<t!<f]!1*F(-!^N#A1*GCD1*G=B1*F(t1*E;^1*E5\1*DZL1*DTJ1*D9A
+1*D6@1*D0>1*D!91*Cg41*Cd31*C:%1*C.!1*C$s1*B[i1(ag)$':S\OHp-5P6[2)
+#EX9;OELkjEX.\A#EWO&OBMmN<sOgf#:'R!#TsBo#TO*g#T*g_#S[OW#S77O#RgtG
+#RC\?#QtD7#QP,1!DBZ4@fT/2+L(Q<,Ida];-L1-,=2F8&k`3t<'n+q!=-DoN>=#p
+.k<,#.k<,#.k<,#.k<,#.i9ce.k<,#.k<,#.k:Wn:jKSO*s'ct#9Ukh+)hH8.k=7k
+H+<p:!R\=\OMhBcE!ImD.i8;m:]N7D@>eM6!%TQM.k<,#.k<,#.k<,#.k<,#.k<,#
+.fh.N.k<,#.k<,#.k<,#.k<,#.k:WhBi@>!92J`q#QR1o6X3`u#QR1oZN:LA&joc/
+)^/?N((bFKYS'<*\N:rOIN,j$!!0"u$S,Aa$mS*C%3n3D&jod3/O:sS)nH.P"98E0
+.p9(d,=8UF,=8UI6Wgl9IQJ\l\cJ`4!!!BW=g/G^6Eh%H632.KEr~>
+endstream
+endobj
+42 0 obj
+9981
+endobj
+44 0 obj
+7941
+endobj
+43 0 obj
+0
+endobj
+45 0 obj
+0
+endobj
+2 0 obj
+[ /PDF /Text  ]
+endobj
+5 0 obj
+<<
+/Kids [4 0 R 11 0 R 16 0 R 19 0 R 24 0 R 29 0 R ]
+/Count 6
+/Type /Pages
+/Parent 46 0 R
+>>
+endobj
+33 0 obj
+<<
+/Kids [32 0 R ]
+/Count 1
+/Type /Pages
+/Parent 46 0 R
+>>
+endobj
+46 0 obj
+<<
+/Kids [5 0 R 33 0 R ]
+/Count 7
+/Type /Pages
+/MediaBox [ 0 0 792 612 ]
+>>
+endobj
+1 0 obj
+<<
+/Creator (Microsoft Word )
+/CreationDate (Monday, 17 17e March 14:03)
+/Title (formato_PBM.PDF)
+/Author (Unknown)
+/Producer (Acrobat PDFWriter 3.02 for Windows)
+/Keywords ()
+/Subject ()
+>>
+endobj
+3 0 obj
+<<
+/Pages 46 0 R
+/Type /Catalog
+/DefaultGray 47 0 R
+/DefaultRGB  48 0 R
+>>
+endobj
+47 0 obj
+[/CalGray
+<<
+/WhitePoint [0.9643 1 0.8251 ]
+/Gamma 1.9 
+>>
+]
+endobj
+48 0 obj
+[/CalRGB
+<<
+/WhitePoint [0.9643 1 0.8251 ]
+/Gamma [1.9 1.9 1.9 ]
+/Matrix [0.511 0.2903 0.0273 0.3264 0.6499 0.1279 0.1268 0.0598 0.6699 ]
+>>
+]
+endobj
+xref
+0 49
+0000000000 65535 f
+0000061951 00000 n
+0000061618 00000 n
+0000062168 00000 n
+0000004012 00000 n
+0000061652 00000 n
+0000037749 00000 n
+0000037871 00000 n
+0000037994 00000 n
+0000000021 00000 n
+0000003988 00000 n
+0000008115 00000 n
+0000038122 00000 n
+0000004167 00000 n
+0000008091 00000 n
+0000038253 00000 n
+0000014672 00000 n
+0000008298 00000 n
+0000014648 00000 n
+0000024843 00000 n
+0000014829 00000 n
+0000024819 00000 n
+0000038388 00000 n
+0000039487 00000 n
+0000034783 00000 n
+0000025013 00000 n
+0000034759 00000 n
+0000050005 00000 n
+0000051104 00000 n
+0000036613 00000 n
+0000034966 00000 n
+0000036589 00000 n
+0000037591 00000 n
+0000061768 00000 n
+0000036783 00000 n
+0000037568 00000 n
+0000039795 00000 n
+0000049915 00000 n
+0000049963 00000 n
+0000049939 00000 n
+0000049984 00000 n
+0000051408 00000 n
+0000061528 00000 n
+0000061576 00000 n
+0000061552 00000 n
+0000061597 00000 n
+0000061851 00000 n
+0000062266 00000 n
+0000062351 00000 n
+trailer
+<<
+/Size 49
+/Root 3 0 R
+/Info 1 0 R
+/ID [<f7285cacabda33c82b484e566c85b444><f7285cacabda33c82b484e566c85b444>]
+>>
+startxref
+62519
+%%EOF
